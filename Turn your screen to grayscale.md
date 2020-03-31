@@ -1,11 +1,11 @@
-Linux
+##Linux
 
 A lot of time on the screens can lead to significant cognitive overload. Fatigue does not come initially from the eyes, but from the brain.
 The idea here is to reduce the imputation of information that you receive visually by removing the colors.
 
-First, install chrome-gnome-shell package
+First install required package
 
-sudo apt install chrome-gnome-shell 
+      sudo apt install chrome-gnome-shell 
 
 Then, reboot your navigator (Firefox here)
 
