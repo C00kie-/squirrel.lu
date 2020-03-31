@@ -1,4 +1,3 @@
-~~~~
 ## 2019, a little return of experience
 
 I came to IoT by the activity of reverse engineering, curious to discover what is under the hood of IoT devices. Here are a few questions I started with:
@@ -64,4 +63,4 @@ I dedicate this article to my friends for Christmas, friends that inspires me, g
 Life with you guys is an awesome adventure.
 
 Merry Christmas to all.
-~~~~
+
