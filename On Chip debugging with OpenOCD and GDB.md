@@ -82,6 +82,7 @@ For example, you’ll need to go to /interface to match your interface name.
 
 I recommend you run the command $openocd -h, it displays the basic commands you can run with their parameters :
 
+~~~~shell
     $ openocd -h
 
 Open On-Chip Debugger 0.10.0+dev-00510-g766d611 (2018-08-10-17:46)
@@ -161,6 +162,8 @@ Info : Target voltage: 3.241744
 Info : stm32f1x.cpu: hardware has 6 breakpoints, 4 watchpoints
 
 Info : Listening on port 3333 for gdb connections
+
+~~~~
 
 Brilliant ! So what does it tell us? That everything is working, even if I have a warning, telling me my version of ST-LINK v2 file is depreciated. (I figured out that it linked directly to the st-link.cfg file instead).
 
