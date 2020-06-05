@@ -17,7 +17,6 @@ or
 ## Projects
 
 - [Gliax Stethoscope](https://github.com/GliaX/Stethoscope) with [La Paillasse](http://lapaillasse.org/)
-- DC11331 DEF CON Montly meetup [site](dc11331.com)
-
-![](./portal-2-wheatley-others-png-clip-art.png)
-0
+- DC11331 DEF CON Monthly meetup [site](dc11331.com)
+- Mianmö Face Mask [Github](https://github.com/Mianmo-project/mask-models)
+- Cities Photography project
