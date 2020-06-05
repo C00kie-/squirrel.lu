@@ -4,6 +4,7 @@ Once you have MISP [downloaded](https://www.circl.lu/misp-images/latest/) and in
 Before to do anything : change the password immedialty.
 Else: make a coffee.
 
+~~~~
       )  (
      (   ) )
       ) ( (
@@ -13,6 +14,7 @@ Else: make a coffee.
  '-./\/\/\/\/|
    '_________'
     '-------'
+~~~~
     
 Then, follow these steps:
 You need to set the baseurl of your machine, so when the systems is running, it knows where to send requests to.
