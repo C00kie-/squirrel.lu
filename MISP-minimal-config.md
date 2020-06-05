@@ -27,8 +27,10 @@ But your users still see default messages when they login. For now it says every
 Now humans. 
   - Create a new user as admin role for MY ORGANISATION.
   - Log out.
+
 ... Have a sip of coffee.
   - Log in with the new user. Now you can remove the default user 'admin@admin.test', Goodbye.
+
 And the machine...
   - It's recommended that you select the taxonomies for you sharing community, as also the external feeds. You can select caching only if you don't want the full events,isn't cool?
 
