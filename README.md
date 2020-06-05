@@ -14,6 +14,10 @@ or
 - Novembre 2019, Vienna, Deepsec, [Please, bias Me!](https://blog.deepsec.net/roots-2019-invited-talk-please-bias-me-pauline-bourmeau/)
 - January 2020, Leeds (UK), More hardware hacking, firmware extraction and analysis witn opensource tools.
 
+## Projects
+
+- [Gliax Stethoscope](https://github.com/GliaX/Stethoscope) with [La Paillasse](http://lapaillasse.org/)
+- DC11331 DEF CON Montly meetup [site](dc11331.com)
 
 ![](./portal-2-wheatley-others-png-clip-art.png)
 0
