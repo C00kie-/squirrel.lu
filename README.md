@@ -19,4 +19,5 @@ or
 - [Gliax Stethoscope](https://github.com/GliaX/Stethoscope) with [La Paillasse](http://lapaillasse.org/)
 - DC11331 DEF CON Monthly meetup [site](dc11331.com)
 - Mianmö Face Mask [Github](https://github.com/Mianmo-project/mask-models)
-- Cities Photography project
+- MISP [Extended-events Taxonomie](https://www.misp-project.org/taxonomies.html#_extended_event)
+- [Cities](https://www.flickr.com/photos/186756091@N02/) Photography project
