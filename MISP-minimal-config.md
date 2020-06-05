@@ -1,4 +1,4 @@
-Once you have MISP [downloaded](https://www.circl.lu/misp-images/latest/) and installed on your machine, you connect to it with your browser, using the installation credentials.
+Once you have MISP [downloaded](https://www.misp-project.org/download/) and installed on your machine, you connect to it with your browser, using the installation credentials.
 
 !!!
 Before to do anything : change the password immedialty.
