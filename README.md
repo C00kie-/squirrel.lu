@@ -3,9 +3,10 @@ or
 # some techno divings 
 
 ## Articles
-- August 2018, Manchester BeerSide, Bsides, On chip debugging with Openocd.
-- October 2019, Luxembourg, Hack.Lu, Snarf-if! Intro to hardware hacking, firmware extraction and analysis with opensource tools.
-- December 2019, Fr. 2019, a little return of experience.
+- August 2018, Manchester BeerSide, Bsides, [On chip debugging with Openocd](On-Chip-debugging-with-OpenOCD-and-GDB)
+- October 2019, Luxembourg, [Hack.Lu, Snarf-if! Intro to hardware hacking, firmware extraction and analysis with opensource tools](./Intro-to-hardware-Firmware-extraction)
+- December 2019, Fr. [2019, a little return of experience](./year-2019-a-little-return-of-experience)
+- June 2020, Fr. [MISP Minimal config](./MISP-minimal-config)
 
 ## Conferences
 - August 2018, Manchester BeerSide, Bsides, On chip debugging with Openocd.
@@ -15,3 +16,4 @@ or
 
 
 ![](./portal-2-wheatley-others-png-clip-art.png)
+0
