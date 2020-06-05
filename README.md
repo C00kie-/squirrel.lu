@@ -2,7 +2,7 @@
 or 
 # some techno divings 
 
-## my posts
+## Articles
 - August 2018, Manchester BeerSide, Bsides, On chip debugging with Openocd.
 - October 2019, Luxembourg, Hack.Lu, Snarf-if! Intro to hardware hacking, firmware extraction and analysis with opensource tools.
 - December 2019, Fr. 2019, a little return of experience.
