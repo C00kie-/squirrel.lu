@@ -1,7 +1,7 @@
 Once you have MISP [downloaded](https://www.misp-project.org/download/) and installed on your machine, you connect to it with your browser, using the installation credentials.
 
 :warning:
-Before to do anything : change the password immedialty.
+Before to do anything : change the password immediatly
 
 Else: make a coffee.
 
@@ -25,7 +25,7 @@ Your new setup needs to know an organisation name!
   - You need then to indicate this organisation as the default one. For so, replace 'MISP.host_org_id'.
 Good so far!
 But your users still see default messages when they login. For now it says everything has to be configured. Uh oh. 
-  - To change this, set 'MISP.footermidleft' and 'MISPfootermidright' to display the message you want. like "I LOVE" ----------- "COOKIES" 
+  - To change this, set 'MISP.footermidleft' and 'MISP.footermidright' to display the message you want. like "I LOVE" ----------- "COOKIES" 
   
 Now humans. 
   - Create a new user as admin role for MY ORGANISATION.
