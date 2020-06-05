@@ -13,7 +13,8 @@ or
 - October 2019, Luxembourg, Hack.Lu, [Snarf-if!](https://cfp.hack.lu/hacklu19/talk/8YR7UM/) Intro to hardware hacking, firmware extraction and analysis with opensource tools. Workshop :wrench:
 - Novembre 2019, Vienna, Deepsec, [Please, bias Me!](https://blog.deepsec.net/roots-2019-invited-talk-please-bias-me-pauline-bourmeau/)
 - January 2020, Leeds (UK), More hardware hacking, firmware extraction and analysis witn opensource tools
-- Februray 2020, Berlin, :wrench: firmware extraction contribution to Saumil Shah ARM Exploit Lab
+- February 2020, Berlin, OffensiveCon :wrench: firmware extraction contribution to Saumil Shah ARM Exploit Lab
+- February 2020, Paris, DEFCON Group meetup, I love Hardboxes, OSINT for IoT & MISP workflow
 
 ## Projects
 
