@@ -42,4 +42,4 @@ Wooo, you are close!
   - Now add the remote MISP instances, where you have access.
 Here it is.
 
-For more see : [https://github.com/MISP/misp-book] (https://github.com/MISP/misp-book)
+For more see : [https://github.com/MISP/misp-book](https://github.com/MISP/misp-book)
