@@ -6,6 +6,7 @@ or
 - August 2018, Manchester BeerSide, Bsides, [On chip debugging with Openocd](On-Chip-debugging-with-OpenOCD-and-GDB)
 - October 2019, Luxembourg, [Hack.Lu, Snarf-if! Intro to hardware hacking, firmware extraction and analysis with opensource tools](./Intro-to-hardware-Firmware-extraction)
 - December 2019, Fr. [2019, a little return of experience](./year-2019-a-little-return-of-experience)
+- Mars 2020, Fr. [Turn your screen to grayscale](Turn-your-screen-to-grayscale)
 - June 2020, Fr. [MISP Minimal config](./MISP-minimal-config)
 
 ## Conferences
@@ -14,7 +15,7 @@ or
 - Novembre 2019, Vienna, Deepsec, [Please, bias Me!](https://blog.deepsec.net/roots-2019-invited-talk-please-bias-me-pauline-bourmeau/)
 - January 2020, Leeds (UK), More hardware hacking, firmware extraction and analysis witn opensource tools
 - February 2020, Berlin, OffensiveCon :wrench: firmware extraction contribution to Saumil Shah ARM Exploit Lab
-- February 2020, Paris, DEFCON Group meetup, I love Hardboxes, OSINT for IoT & MISP workflow
+- February 2020, Paris, DEFCON Group meetup, "I love Hardboxes", OSINT for IoT & MISP workflow
 
 ## Projects
 
