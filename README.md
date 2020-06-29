@@ -16,7 +16,7 @@ or
 - January 2020, Leeds (UK), More hardware hacking, firmware extraction and analysis witn opensource tools
 - February 2020, Berlin, OffensiveCon :wrench: firmware extraction contribution to Saumil Shah ARM Exploit Lab
 - February 2020, Paris, DEFCON Group meetup, "I love Hardboxes", OSINT for IoT & MISP workflow
-- June 2020, Online, Pass The Salt 2020, Openning keynote with Alexandre Dulaunoy "How FOSS can help human to keep their sanity during a pandemic crisis?"
+- June 2020, Online, Pass The Salt 2020, Openning keynote with Alexandre Dulaunoy "How FOSS can help human to keep their sanity during a pandemic crisis? building better open source projects"
 
 ## Projects
 
