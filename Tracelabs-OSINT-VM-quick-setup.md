@@ -68,6 +68,8 @@ $adduser
 
 # General remarks
 
+It's not an exaustive covering of the topic, but a few remarks regarding an usage I have. I consider this can make sense to other people too.
+
 PROS: Potential of the VM, to collect a set of tools.
 
 Last releases of :
@@ -76,5 +78,5 @@ Last releases of :
 CONS: 
 - As Kali Linux runs root: create a user.
 - Careful, when you change the keyboard map, it won't be recognized outside of your session. Your password then might be broken.
-- Check for tools that are still maintained. Report tools that aren't : [report bug](https://github.com/tracelabs/tlosint-live)
+- Check for tools that are still maintained. Report tools that aren't : [report bug](https://github.com/tracelabs/tlosint-live), and report bugs to Github page of the tool too.
 
