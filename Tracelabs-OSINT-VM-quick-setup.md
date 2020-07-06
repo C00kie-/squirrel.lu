@@ -65,3 +65,16 @@ $adduser
 - Note that any cookies and site data will be cleared when you close a Tor Browser.
 
 
+
+# General remarks
+
+PROS: Potential of the VM, to collect a set of tools.
+
+Last releases of :
+- [The Harvester](https://github.com/laramies/theHarvester/releases/tag/V3.1)
+
+CONS: 
+- As Kali Linux runs root: create a user.
+- Careful, when you change the keyboard map, it won't be recognized outside of your session. Your password then might be broken.
+- Check for tools that are still maintained. Report tools that aren't : [report bug](https://github.com/tracelabs/tlosint-live)
+
