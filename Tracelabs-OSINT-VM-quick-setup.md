@@ -24,8 +24,8 @@ Run the script "Update System", visible on Desktop.
 or
 
 ### Run updates:
-$sudo apt update
-$sudo apt upgrade -y 
+  $sudo apt update
+  $sudo apt upgrade -y 
 
 note: "apt" stands for Aptitude, it's a package manager for this Debian based distribution. 
 
@@ -34,14 +34,14 @@ It might take a bit of time.
 
 
 You may need to reboot your vm:
-$sudo reboot
-$sudo apt update
+  $sudo reboot
+  $sudo apt update
 If there are old packages to remove:
 $sudo apt autoremove
 
 ## Security:
 ### Change default password:
-$psswd
+  $psswd
 
 If for some scripts your need to have a different user:
 ### Create a new user:
@@ -49,7 +49,7 @@ $adduser
 
 
 ### switch to the new user:
-$su - [new user]
+  $su - [new user]
 
 
 ## Tor
