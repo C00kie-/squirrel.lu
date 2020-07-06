@@ -1,6 +1,8 @@
 # Tracelabs OSINT VM
 
 Download the .ova from [Tracelabs website](https://www.tracelabs.org/trace-labs-osint-vm/), [VM](http://download.tracelabs.org/TL-OSINT-2020.1.ova) 
+  
+  View Tracelabs [repository](https://github.com/tracelabs/tlosint-live) on Github.
 
 Check your download integrity (SHA256 hash).
 
