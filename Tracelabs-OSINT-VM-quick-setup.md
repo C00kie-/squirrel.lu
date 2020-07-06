@@ -1,5 +1,10 @@
-Tracelabs OSINT VM
+# Tracelabs OSINT VM
 
+Download the .ova from [Tracelabs website](https://www.tracelabs.org/trace-labs-osint-vm/), [VM](http://download.tracelabs.org/TL-OSINT-2020.1.ova) 
+
+Check your download integrity (SHA256 hash).
+
+### Set Keyboard:
 The VM is neat, and very cool. Before starting working with it, I recommend doing a few updates and setups (at your discretion).
 
 First set your keyboard: 
