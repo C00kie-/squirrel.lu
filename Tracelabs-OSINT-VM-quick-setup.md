@@ -48,7 +48,8 @@ If for some scripts your need to have a different user:
 $adduser
 
 
-switch to the new user
+### switch to the new user:
+$su - [new user]
 
 
 ## Tor
