@@ -54,14 +54,14 @@ $su - [new user]
 
 ## Tor
 
-Ususally Tor browser tells you if you need and update, but I go check manually: Preferences, Tor Browser Updates, and click Check for Updates.
+- Ususally Tor browser tells you if you need and update, but I go check manually: Preferences, Tor Browser Updates, and click Check for Updates.
 
-For Tor Downloaded files, I usually create a specific folder so that I don't mix downloads: Preferences, Files and Applications, Downloads, Save files to [path], click browse and select of create the folder you want to use.
+- For Tor Downloaded files, I usually create a specific folder so that I don't mix downloads: Preferences, Files and Applications, Downloads, Save files to [path], click browse and select of create the folder you want to use.
 
-And as in any navigators, you can set up the fonts, size and color of the text. Preference, Language and Appearace, Fonts and Colors. 
+- And as in any navigators, you can set up the fonts, size and color of the text. Preference, Language and Appearace, Fonts and Colors. 
 
-Note that the default search bar reference to DuckDuckGo, you can change this setting by going to Preferences, Search, Search Bar, and select the one your want (Youtube, Google, DuckDuckGoOnion,Startpage,Twitter,Wikipedia, Yahoo).
+- Note that the default search bar reference to DuckDuckGo, you can change this setting by going to Preferences, Search, Search Bar, and select the one your want (Youtube, Google, DuckDuckGoOnion,Startpage,Twitter,Wikipedia, Yahoo).
 
-Note that any cookies and site data will be cleared when you close a Tor Browser.
+- Note that any cookies and site data will be cleared when you close a Tor Browser.
 
 
