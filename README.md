@@ -5,9 +5,10 @@ or
 ## Articles
 - August 2018, Manchester BeerSide, Bsides, [On chip debugging with Openocd](On-Chip-debugging-with-OpenOCD-and-GDB)
 - October 2019, Luxembourg, [Hack.Lu, Snarf-if! Intro to hardware hacking, firmware extraction and analysis with opensource tools](./Intro-to-hardware-Firmware-extraction)
-- December 2019, Fr. [2019, a little return of experience](./year-2019-a-little-return-of-experience)
-- Mars 2020, Fr. [Turn your screen to grayscale](Turn-your-screen-to-grayscale)
-- June 2020, Fr. [MISP Minimal config](./MISP-minimal-config)
+- December 2019, [2019, a little return of experience](./year-2019-a-little-return-of-experience)
+- Mars 2020, [Turn your screen to grayscale](Turn-your-screen-to-grayscale)
+- June 2020, [MISP Minimal config](./MISP-minimal-config)
+- August 2020, [Learn the techniques](./learn-the-techniques) 
 
 ## Conferences
 - August 2018, Manchester BeerSide, Bsides, On chip debugging with Openocd.
