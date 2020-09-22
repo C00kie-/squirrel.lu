@@ -9,8 +9,8 @@ or
 - Mars 2020, [Turn your screen to grayscale](Turn-your-screen-to-grayscale)
 - June 2020, [MISP Minimal config](./MISP-minimal-config)
 - August 2020, [Learn the techniques](./learn-the-techniques) 
-- September 2020, [Convert Markdown file to pdf with Pandoc](./convert-markdown-file-to-pdf.md)
-- September 2020, [Quickfix: Decrypt an email without enigmail add-on](./decrypt-an-email-without-add-on.md)
+- September 2020, [Convert Markdown file to pdf with Pandoc](./convert-markdown-file-to-pdf)
+- September 2020, [Quickfix: Decrypt an email without enigmail add-on](./decrypt-an-email-without-add-on)
 
 ## Conferences
 - August 2018, Manchester BeerSide, Bsides, On chip debugging with Openocd.
