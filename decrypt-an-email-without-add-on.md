@@ -1,10 +1,10 @@
 # Quickfix: How to decrypt a mail without encryption add-on
 
-Thanks to Thunderbird his last move, encryption through Enigmail add-on suddently became impossible if you wanted to use well, an add-on to do it.
+Thanks to Thunderbird his last move, encryption through Enigmail add-on suddenly became impossible if you wanted to use well, an add-on to do it.
 
 First, download the email from the mailbox, in Thunderbird base it's an .eml file ([about .EML extension](https://fileinfo.com/extension/eml)) that is downloaded
 
-Then you need to install (hopely one) and run two tools:
+Then you need to install (hopefully one) and run two tools:
 
 first is [uudeview](http://www.fpx.de/fp/Software/UUDeview/)
 
@@ -53,4 +53,4 @@ Files are created in your folder. Now you are free to consult them.
 
 More: [Introduction to decoding](http://www.fpx.de/fp/Software/UUDeview/Introduction.html) by Frank Pilhofer.
 
-special tks to @adulau for cool hacky thoughs
+special tks to @adulau for cool hacky thoughts
