@@ -6,7 +6,7 @@ First, download the email from the mailbox, in Thunderbird base it's an .eml fil
 
 Then you need to install (hopely one) and run two tools:
 
-first is [Uudeview](http://www.fpx.de/fp/Software/UUDeview/)
+first is [uudeview](http://www.fpx.de/fp/Software/UUDeview/)
 
 	sudo apt install uudeview
 
