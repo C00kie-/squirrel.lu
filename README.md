@@ -10,6 +10,7 @@ or
 - June 2020, [MISP Minimal config](./MISP-minimal-config)
 - August 2020, [Learn the techniques](./learn-the-techniques) 
 - September 2020, [Convert Markdown file to pdf with Pandoc](https://github.com/C00kie-/squirrel.lu/blob/master/convert-markdown-file-to-pdf.md)
+- September 2020, [Quickfix: Decrypt an email without enigmail add-on]()
 
 ## Conferences
 - August 2018, Manchester BeerSide, Bsides, On chip debugging with Openocd.
