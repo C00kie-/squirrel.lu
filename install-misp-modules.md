@@ -55,8 +55,7 @@ Spoiler: OpenCV compilation takes time.
  
  ![screenshot2](https://github.com/C00kie-/squirrel.lu/raw/master/pictures/Screenshot%20from%202020-11-05%2017-25-37.png)
  
- 
- Then create an Event and try the following :
+ Once these setups are activated, go back to "Home" page, then create an event and try the following :
  
  ![screenshot3](https://github.com/C00kie-/squirrel.lu/raw/master/pictures/Screenshot%20from%202020-11-05%2017-27-07.png)
  
