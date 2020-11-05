@@ -15,6 +15,7 @@ Now check if the installation need additionnal librairies, install them with pip
 
 Spoiler: OpenCV compilation takes time.
 
+~~~~
           {
        }   }   {
       {   {  }  }
@@ -32,3 +33,5 @@ Spoiler: OpenCV compilation takes time.
    |            (  /
    \             y'
     `-.._____..-'
+    
+    ~~~~
