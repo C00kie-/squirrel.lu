@@ -49,20 +49,20 @@ Spoiler: OpenCV compilation takes time.
   
  Go in Server Settings and Maintenance > Plugin Settings and activate Service and Hover enable (set True)
  
- [screenshot1]()
+ ![screenshot1](https://github.com/C00kie-/squirrel.lu/raw/master/pictures/Screenshot%20from%202020-11-05%2017-23-15.png)
  
  In Settings > Plugin Settings and enrichment, enable CVE_advanced (set True)
  
- [screenshot2]()
+ ![screenshot2](https://github.com/C00kie-/squirrel.lu/raw/master/pictures/Screenshot%20from%202020-11-05%2017-25-37.png)
  
  
  Then create an Event and try the following :
  
- [screenshot3]()
+ ![screenshot3](https://github.com/C00kie-/squirrel.lu/raw/master/pictures/Screenshot%20from%202020-11-05%2017-27-07.png)
  
  Reload your page :
  
- [screenshot4]()
+ ![screenshot4](https://github.com/C00kie-/squirrel.lu/raw/master/pictures/Screenshot%20from%202020-11-05%2017-27-48.png)
  
  
  
