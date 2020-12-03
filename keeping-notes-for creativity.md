@@ -39,7 +39,11 @@ And most important: it leaks just too much info such as : author, date, path...
   And...
   
 **4/ "Hey do  you know about Joplin?"**
--_- 
+
+me: -_- 
+
+then: O_o ?
+
 
   It works!
   
