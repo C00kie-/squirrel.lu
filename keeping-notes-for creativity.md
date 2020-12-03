@@ -59,3 +59,6 @@ then: O_o ?
   We often say that good work is done with good tools, or just if you don't want to burn your brain while working on a computer, you might try to implement what works for you.
   
   
+  The Graaal here:  https://joplinapp.org/
+  
+  
