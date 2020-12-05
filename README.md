@@ -12,7 +12,7 @@ or
 - September 2020, [Convert Markdown file to pdf with Pandoc](./convert-markdown-file-to-pdf)
 - September 2020, [Quickfix: Decrypt an email without enigmail add-on](./decrypt-an-email-without-add-on)
 - November 2020, [Install MISP modules](./install-misp-modules)
-- December 2020, [A quick note about notes](./keeping-notes-for-creativity)
+- December 2020, [A quick note about notes](./keeping-notes-for creativity)
 
 ## Conferences
 - August 2018, Manchester BeerSide, Bsides, On chip debugging with Openocd.
