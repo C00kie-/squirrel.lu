@@ -21,7 +21,7 @@ It was cool to read but I'm not a machine and while writing ideas don't go out a
 
   It fails to.
   
-Fighting with VI more than sometimes, still loving it, but nope. Is it a keyboard mapping problem this time,or just me?
+Fighting with Vi more than sometimes, still loving it, but nope. Is it a keyboard mapping problem this time,or just me?
 
 And most important: it leaks just too much info such as : author, date, path...
 
