@@ -42,8 +42,8 @@ or
 
 
 ### Social networks
-<a rel="me" href="https://fosstodon.org/@c00kie">Mastodon</a>
-[Twitter](Twitter.com/ko97551819)
+- <a rel="me" href="https://fosstodon.org/@c00kie">Mastodon</a>
+- [Twitter](Twitter.com/ko97551819)
 
 
 # LICENSE 
