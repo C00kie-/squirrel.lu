@@ -41,6 +41,11 @@ or
 - [Repository under construction](https://github.com/C00kie-/ORCRI) Ressources collection, tools for supporting analysis.
 
 
+### Social networks
+<a rel="me" href="https://fosstodon.org/@c00kie">Mastodon</a>
+[Twitter](Twitter.com/ko97551819)
+
+
 # LICENSE 
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](./LICENSE)
