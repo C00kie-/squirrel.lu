@@ -62,10 +62,10 @@ Once you get the watch out and turns it on, you'll have to do a few configuratio
 
 ### You'll need:
 - **documentation** : 
-https://github.com/JF002/Pinetime/blob/develop/doc/gettingStarted/gettingStarted.md
+[on github](https://github.com/JF002/Pinetime/blob/develop/doc/gettingStarted/gettingStarted.md)
 
 - **the releases page** : 
-https://github.com/JF002/Pinetime/releases
+[on github]()https://github.com/JF002/Pinetime/releases
 
 ### (!) Careful about firmware update: check the last stable version for sealed watch only.
 
