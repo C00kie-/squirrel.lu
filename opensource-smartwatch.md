@@ -76,3 +76,6 @@ Once you get the watch out and turns it on, you'll have to do a few configuratio
 ** [Nordic Semi conductor website](https://www.nordicsemi.com/Software-and-tools/Development-Tools/nRF-Connect-for-mobile)
 
 
+Next post is getting started with the dev kit :-p
+
+Have a good week!
