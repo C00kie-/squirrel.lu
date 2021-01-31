@@ -107,7 +107,7 @@ To check the data integrity :
 ### barplot
         > barplot(table(smp.c$prof))
         
-![img](./r-data/barplot.png)        
+![img](./pictures/barplot.png)        
 
 The same thing as table in the console:
         
@@ -123,12 +123,12 @@ The same thing as table in the console:
  
         > pie(table(smp.c$prof))
 
-![img](./r-data/pie.png)
+![img](./pictures/pie.png)
 
 ### histogram
 
         > hist(smp.c$age)
-![img](./r-data/hist.png)
+![img](./pictures/hist.png)
 
 
 
