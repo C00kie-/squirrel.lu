@@ -14,6 +14,7 @@ or
 - November 2020, [Install MISP modules](./install-misp-modules)
 - December 2020, [A quick note about notes](./keeping-notes-for-creativity)
 - January 2021, [Opensource SmartWatch](./opensource-smartwatch)
+- January 2021, [Statistical analysis with R](./statistics-with-R)
 
 ## Conferences
 - August 2018, Manchester BeerSide, Bsides, On chip debugging with Openocd.
