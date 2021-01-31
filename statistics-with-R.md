@@ -1,4 +1,4 @@
-## Statistics with R
+## Statistical analysis with R
 
 *NOTE:* same tutorial as in the repository [ORCRI](https://github.com/C00kie-/ORCRI) -->(Online Ressources for Crime Reporting and Investigation).
 
