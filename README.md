@@ -11,6 +11,7 @@ or
 - August 2020, [Learn the techniques](./learn-the-techniques) 
 - September 2020, [Convert Markdown file to pdf with Pandoc](./convert-markdown-file-to-pdf)
 - September 2020, [Quickfix: Decrypt an email without enigmail add-on](./decrypt-an-email-without-add-on)
+- Septembre 2020, [How to Make a MISP Import Script](https://www.misp-project.org/2020/09/30/How-To-Make-A-MISP-Import-Script.html)
 - November 2020, [Install MISP modules](./install-misp-modules)
 - December 2020, [A quick note about notes](./keeping-notes-for-creativity)
 - January 2021, [Opensource SmartWatch](./opensource-smartwatch)
