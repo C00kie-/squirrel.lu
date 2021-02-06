@@ -176,11 +176,16 @@ manage taxonomies with PyTaxonomies (Python 3 module)
 
 ## Q&A
 https://github.com/MISP/MISP
+
 https://github.com/MISP/misp-taxonomies
+
 https://github.com/MISP/PyTaxonomies
+
 https://github.com/MISP/misp-warninglists
+
 info@circl.lu (if you want to join one of the MISP community
 operated by CIRCL)
+
 PGP key fingerprint: CA57 2205 C002 4E06 BA70 BE89 EAAD
 CFFC 22BD 4CD5
 
