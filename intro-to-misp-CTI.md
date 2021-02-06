@@ -323,17 +323,16 @@ Existing MISP modules
 
 **PyMISP usage example **: See [How to make a MISP import script](https://www.misp-project.org/2020/09/30/How-To-Make-A-MISP-Import-Script.html)
 
-## MISP admin training with MISP VM 
+
+## extra things, TDL (to do later)
+### MISP admin training with MISP VM 
 
 https://www.circl.lu/misp-training
 
 All installation and first tasks as admin (slides 83-104)
 
-
-
  
- 
- ## MISP module, UI configuration
+ ### MISP module, UI configuration
  
  activate the modules
  Go Server Settings : Enrichment 
