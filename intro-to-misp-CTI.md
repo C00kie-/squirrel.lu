@@ -1,4 +1,4 @@
-MISP training for analysts cyber intelligence 
+MISP micro training for analysts CTI
 Intro part 1 
 ------------------------------------
 Agenda for this first part:
