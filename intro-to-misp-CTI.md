@@ -287,6 +287,9 @@ We use **warning lists** at the exportation of data
 |make warning lists for content to evaluate (quality)|
 |make warning list to avoid false positive associated with well known indicators (JSON file)|
 
+- How to activate feeds
+- How to activate modules in MISP
+- Workers
 
 see part SIEM integration 
 
