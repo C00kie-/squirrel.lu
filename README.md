@@ -17,6 +17,7 @@ or
 - January 2021, [Opensource SmartWatch](./opensource-smartwatch)
 - January 2021, [Statistical analysis with R](./statistics-with-R)
 - January 2021, [Cheat sheet #1](./cheat-sheet-1)
+- February 2021, [Micro-training, Introduction to MISP, for CTI analysts](./intro-to-misp-CTI)
 
 ## Conferences
 - August 2018, Manchester BeerSide, Bsides, On chip debugging with Openocd.
