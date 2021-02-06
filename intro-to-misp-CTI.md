@@ -321,7 +321,7 @@ Existing MISP modules
 
 ## 6. PyMISP
 
-**PyMISP usage example **: See [How to make a MISP import script](https://www.misp-project.org/2020/09/30/How-To-Make-A-MISP-Import-Script.html)
+**PyMISP usage example**: See [How to make a MISP import script](https://www.misp-project.org/2020/09/30/How-To-Make-A-MISP-Import-Script.html)
 
 
 ## extra things, TDL (to do later)
