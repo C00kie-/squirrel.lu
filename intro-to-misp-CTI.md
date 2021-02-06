@@ -1,5 +1,6 @@
-MISP micro training for analysts CTI
-Intro part 1 
+# MISP micro training for analysts CTI
+
+# Intro part 1 
 ------------------------------------
 Agenda for this first part:
 
