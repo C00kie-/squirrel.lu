@@ -319,6 +319,10 @@ Existing MISP modules
 - Import modules
 - Export modules
 
+## 6. PyMISP
+
+**PyMISP usage example **: See [How to make a MISP import script](https://www.misp-project.org/2020/09/30/How-To-Make-A-MISP-Import-Script.html)
+
 ## MISP admin training with MISP VM 
 
 https://www.circl.lu/misp-training
