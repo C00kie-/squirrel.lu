@@ -143,6 +143,7 @@ Creator of the event decide the sharing parameter of the event.
 	- NAMESPACE PREDICATE VALUE 
 
 admiralty-scale:source-reliability="c"
+
 |admiralty-scale|source-reliability|"c"|
 |-|-|-|
 |namepsace|predicate|value|
@@ -175,6 +176,7 @@ manage taxonomies with PyTaxonomies (Python 3 module)
 
 
 ## Q&A
+
 https://github.com/MISP/MISP
 
 https://github.com/MISP/misp-taxonomies
@@ -188,12 +190,6 @@ operated by CIRCL)
 
 PGP key fingerprint: CA57 2205 C002 4E06 BA70 BE89 EAAD
 CFFC 22BD 4CD5
-
-
-
-
-
-
 
 # Intro part 2             
 # Get you hands dirty, general usage part 1:
@@ -285,6 +281,7 @@ feeds formats:
 Normalizing OSINT and private feeds: any normalization is done **before pushing data into a MISP**
 
 We use **warning lists** at the exportation of data 
+
 |IMPORT|
 |-|
 |normalizing external input and feed into MISP (feed importer)|
