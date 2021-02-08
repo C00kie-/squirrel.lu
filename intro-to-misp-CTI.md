@@ -17,7 +17,7 @@ Full slide deck available from MISP training at : https://github.com/MISP/misp-t
 ## 1. Practical usage from user perspective
 
 **job purpose in our case:**
-- collect indicators of compromission -> feed, free text import
+- collect indicators of compromised -> feed, free text import
 - write reports -> export
 - share informations with analysts -> sharing
 - preparing information to share with clients (over a MISP synchronisation for example) -> sharing, tagging
@@ -34,12 +34,12 @@ Full slide deck available from MISP training at : https://github.com/MISP/misp-t
 			- identify new threat in your community
 
 ### Examples
-Operationnal security
+Operational security
 - searching & validating for indicators
 intelligence analysts
 - information gathering about adversary groups
 
-- Gather informations about campaings and attack:
+- Gather informations about campaigns and attack:
 	- are they related
 	- who is targeting me
 	- who are the adversaries
@@ -59,10 +59,10 @@ Slide 9 misp project includes:
 Important:
 - MISP is build on **opensource software**
 
-- you can work with MISP modules to add expensions, export and import functionnalities to MISP
+- you can work with MISP modules to add expansions, export and import functionalities to MISP
 
 
-## 3. Sharing groups
+## 3. Sharing communities 
 
 (?) What is a user group?
 
@@ -84,9 +84,9 @@ Members of a sharing communities can be:
 ### Templates and contextualization 
 
 - Analysis with MISP is based on **"contextualy linked information"**
-- MISP used **templates** (object templates and attribut templates) to help the user.
+- MISP used **templates** (object templates) to help the users to extend the data models of MISP.
 
-- **galaxies** are used for the categorization of the data and for more granularity (ex: threat actors, TTP)
+- **galaxies** are used for the categorization of the data and for more granularity (ex: threat actors, TTPs)
 - basic installation comes with a **standard set of cybersecurity indicators**
 
 ### Indicators and attributes
@@ -122,7 +122,7 @@ While creating an event, you are asked to specify a **tagging** (if needed) and 
 
 ### Events: Classification with tagging 
 - use it to be efficient, avoid NOISE
-- tagging sheme exists in taxonomies, your own can be created (ex: a client can have his own tagging sheme and taxonomies)
+- tagging scheme exists in taxonomies, your own can be created (ex: a client can have his own tagging scheme and taxonomies)
 
 ### Events: Sharing 
 
@@ -216,20 +216,20 @@ creds for machine:
 - Then you'll log into MISP with this new user account.
 
 ## 2. Create and populate an event 
-- add attribut, **batch add** (import multiple to creation of unique attributs)
-	- expl: ip list, if mixed list with ip and domains, use freetext import 
+- add attribute, **batch add** (import multiple to creation of unique attributes)
+	- explanation: ip list, if mixed list with ip and domains, use free-text import
 - adding objects, object template 
 - **freetext import**
 - other imports
 - consulting available templates
 - add attachments
 
-**What is done** when importing attributs:
+**What is done** when importing attributes:
 - automatic correlation
 - input mod via validation (regex)
 - tagging
 
-publishing 
+publishing
 - with and without an email (send a notification email or not)
 - via the API(**)
 - the case of delegation
