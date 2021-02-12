@@ -39,6 +39,7 @@ or
 - [Cities](https://www.flickr.com/photos/186756091@N02/) Photography project
 - FOSS day-to-day :wrench: [Tools](https://github.com/C00kie-/foss-tools/blob/master/README.md)
 - [ORCRIme](https://github.com/C00kie-/ORCRI) Online Ressources for **Crime Reporting and Investigation**, A curated list of ressources reporting criminal activity.
+- [Napkin text analysis](https://github.com/C00kie-/napkin-text-analysis)
 
 ## Crime investigation and reporting
 
