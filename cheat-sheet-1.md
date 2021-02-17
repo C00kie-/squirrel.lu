@@ -44,7 +44,7 @@ Add the original project repository as a remote (you will need to pull updates f
 
 log in root
       
-      cd var/www/misp
+      cd /var/www/MISP
       
       git pull origin 
       
