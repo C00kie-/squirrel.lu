@@ -49,6 +49,19 @@ log in root
       git pull origin 
       
       git submodule update
+# 4 bis update MISP taxonommies, objects and galaxies from UI
+
+Object templates
+
+      In Menu Global Actions: List Object Templates: them Update Objects in the left panel
+      
+Galaxies
+
+      In Menu Galaxies: List Galaxies: Update Galaxies in the left panel
+      
+Taxonomies
+
+      In Menu Events Actions: List Taxonomies: Update Taxonomies in the left panel 
 
 # 5 Apache config for MISP
 
