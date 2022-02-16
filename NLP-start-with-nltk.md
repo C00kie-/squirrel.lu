@@ -8,7 +8,7 @@ Start python3 on your terminal:
 ```
 $python3 
 >>> import nltk
->>> nltk.download('popular') // install common in /usr/local/share/nltk_data 
+>>> nltk.download('popular') 
 ```
 see https://www.nltk.org/nltk_data/ 
 
