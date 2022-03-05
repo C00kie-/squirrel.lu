@@ -19,6 +19,9 @@ or
 - January 2021, [Cheat sheet #1](./cheat-sheet-1)
 - February 2021, [Micro-training, Introduction to MISP, for CTI analysts](./intro-to-misp-CTI) (draft)
 
+## Tips
+- March 2022, [Convert .doc file to .pdf command line linux](./doc-to-pdf.md)
+
 ## Conferences
 - August 2018, Manchester BeerSide, Bsides, On chip debugging with Openocd.
 - October 2019, Luxembourg, Hack.Lu, [Snarf-if!](https://cfp.hack.lu/hacklu19/talk/8YR7UM/) Intro to hardware hacking, firmware extraction and analysis with opensource tools. Workshop :wrench:
