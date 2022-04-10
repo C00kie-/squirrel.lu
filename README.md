@@ -2,7 +2,7 @@
 or 
 # some techno divings 
 
-## 42 Help
+## 42 student support center (911)
 
 - VPS configure wiki (notes compilation)
 
