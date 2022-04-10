@@ -2,7 +2,7 @@
 or 
 # some techno divings 
 
-## 42 student support center (112 (Europe), 911 (USA))
+## 42 student support center 
 
 - VPS configure wiki (notes compilation)
 
