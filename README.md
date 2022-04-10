@@ -2,6 +2,10 @@
 or 
 # some techno divings 
 
+## 42 Help
+
+- VPS configure wiki (notes compilation)
+
 ## Articles
 - August 2018, Manchester BeerSide, Bsides, [On chip debugging with Openocd](On-Chip-debugging-with-OpenOCD-and-GDB)
 - October 2019, Luxembourg, [Hack.Lu, Snarf-if! Intro to hardware hacking, firmware extraction and analysis with opensource tools](./Intro-to-hardware-Firmware-extraction)
