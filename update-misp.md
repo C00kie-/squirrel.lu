@@ -6,7 +6,10 @@
 
 You must be admin,
 
-Go to Administration > Server Settings & Maintenance > Diagnostics > here you are
+Go to 
+~~~
+Administration > Server Settings & Maintenance > Diagnostics > there you are
+~~~
 
 You run the update request, you are aware that any modification done to your own instance will be lost. One the fetch is done and the version checked, it runs the update.
 
@@ -55,9 +58,10 @@ in root:
 # Update Galaxies and Objects
 
 From UI:
+~~~
 Galaxies > Update Galaxies
 Global Actions > List Object Templates > Update Objects 
-
+~~~
 
 
 
