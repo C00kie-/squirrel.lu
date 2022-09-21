@@ -1,13 +1,16 @@
 # How to access MISP vm from the OUTSIDE (virtualbox), but stay on your laptop still
+disclaimer: MISP demo version very basic install
 
 ## SSH
 
+~~~~
 sudo systemctl status ssh
 sudo systemctl enable ssh --now
 sudo systemctl status ssh
+~~~~
 
 ## Virtualbox settings
-
+~~~~
 Network > Adaptater[number]
   Attached to NAT
     Advanced
@@ -16,12 +19,13 @@ Network > Adaptater[number]
             Protocol: TCP
             Host Port: 2222 or another
             Guest Port: 22
-            
+~~~~ 
+
  ## SSH your vm
  
  from the host:
- 
+ ~~~~
  ssh -p 2222 [user]@localhost
-
+~~~~
  
  
