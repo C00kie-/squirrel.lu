@@ -1,10 +1,11 @@
 # my plans to make a rocket with hazelnuts 
 or 
 # some techno divings 
+and quickfix
 
 ## 42 student support center 
 
-- VPS configure wiki (notes compilation)
+- DM
 
 ## Articles
 - August 2018, Manchester BeerSide, Bsides, [On chip debugging with Openocd](On-Chip-debugging-with-OpenOCD-and-GDB)
