@@ -22,6 +22,12 @@ or
 - January 2021, [Statistical analysis with R](./statistics-with-R)
 - January 2021, [Cheat sheet #1](./cheat-sheet-1)
 - February 2021, [Micro-training, Introduction to MISP, for CTI analysts](./intro-to-misp-CTI) (draft)
+- March 2022 [NLP start with nltk library](./NLP-start-with-nltk)
+- [Tracelab OSINT VM quick setup](./Tracelabs-OSINT-VM-quick-setup)
+- [Doc to pdf](./doc-to-pdf)
+- [Keep notes for creativity](./keeping-notes-for-creativity)
+- [SSH a MISP virtual machine](./ssh-misp-vm)
+- [Update MISP](./update-misp)
 
 ## Tips
 - March 2022, [Convert .doc file to .pdf command line linux](./doc-to-pdf.md)
