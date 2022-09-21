@@ -24,13 +24,13 @@ or
 - February 2021, [Micro-training, Introduction to MISP, for CTI analysts](./intro-to-misp-CTI) (draft)
 - March 2022 [NLP start with nltk library](./NLP-start-with-nltk)
 - [Tracelab OSINT VM quick setup](./Tracelabs-OSINT-VM-quick-setup)
-- [Doc to pdf](./doc-to-pdf)
-- [Keep notes for creativity](./keeping-notes-for-creativity)
+- [Keep notes for creativity Joplin!](./keeping-notes-for-creativity)
 - [SSH a MISP virtual machine](./ssh-misp-vm)
 - [Update MISP](./update-misp)
 
 ## Tips
 - March 2022, [Convert .doc file to .pdf command line linux](./doc-to-pdf.md)
+- [Doc to pdf](./doc-to-pdf)
 
 ## Conferences
 - August 2018, Manchester BeerSide, Bsides, On chip debugging with Openocd.
