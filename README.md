@@ -1,4 +1,4 @@
-![portal](./portal-2-wheatley-others-png-clip-art.png)
+
 ### I'm an ex-teacher now working in IT sec ;)
 ### Articles and quickfix are dedicated to people who need a quick start or quick answer to question they have.
 
