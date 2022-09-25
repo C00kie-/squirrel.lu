@@ -1,14 +1,17 @@
 ![portal](./portal-2-wheatley-others-png-clip-art.png)
-I'm an ex-teacher now working in IT sec ;)
+### I'm an ex-teacher now working in IT sec ;)
+### Articles and quickfix are dedicated to people who need a quick start or quick answer to question they have.
 
-# my plans to make a rocket with hazelnuts 
-or 
-# some techno divings 
-and quickfix
+**Disclaimer** : I do not teach infosec, nevertheless, feel free to dm me on Twitter. If I have the time, I'll be happy to help the best I can throught mentoring  @hello_locked
 
 ## 42 student support center 
 
-- DM
+- DM @hello_locked
+
+## Criminology
+
+- DM @hello_locked mention:crimino in your first message.
+- update : just put online a list of references and journals for criminology students.
 
 ## Articles
 - August 2018, Manchester BeerSide, Bsides, [On chip debugging with Openocd](On-Chip-debugging-with-OpenOCD-and-GDB)
@@ -64,8 +67,8 @@ and quickfix
 
 
 ### Social networks
-- <a rel="me" href="https://fosstodon.org/@c00kie">Mastodon</a>
-- [Twitter](Twitter.com/ko97551819)
+- Mastodon: coming
+- [Twitter](Twitter.com/hello_locked)
 
 
 # LICENSE 
