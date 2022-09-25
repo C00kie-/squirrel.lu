@@ -1,4 +1,5 @@
 ![portal](./portal-2-wheatley-others-png-clip-art.png)
+I'm an ex-teacher now working in IT sec ;)
 
 # my plans to make a rocket with hazelnuts 
 or 
