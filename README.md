@@ -34,7 +34,7 @@
 - [Keep notes for creativity Joplin!](./keeping-notes-for-creativity)
 - [SSH a MISP virtual machine](./ssh-misp-vm)
 - [Update MISP](./update-misp)
-- |Cheat sheet 2 (MISP)](./cheat-sheet-2.md)
+- [Cheat sheet 2 (MISP)](./cheat-sheet-2.md)
 
 ## Tips
 - March 2022, [Convert .doc file to .pdf command line linux](./doc-to-pdf.md)
