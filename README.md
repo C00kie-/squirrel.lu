@@ -2,7 +2,7 @@
 
 
 ### I'm an ex-teacher now working in IT sec ;)
-### Articles and quickfix are dedicated to people who need a quick start or quick answer to question they might have, if it can help! :)
+### Articles and quickfix are dedicated to people who need a quick start or quick answer to questions they might have, if it can help! :)
 
 ## 42 student support center 
 
