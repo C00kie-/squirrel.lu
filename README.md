@@ -1,8 +1,6 @@
 
 ### I'm an ex-teacher now working in IT sec ;)
-### Articles and quickfix are dedicated to people who need a quick start or quick answer to question they have.
-
-**Disclaimer** : I do not teach infosec, nevertheless, feel free to dm me on Twitter. If I have the time, I'll be happy to help the best I can through mentoring  @hello_locked
+### Articles and quickfix are dedicated to people who need a quick start or quick answer to question they might have, if it can help! :)
 
 ## 42 student support center 
 
@@ -69,7 +67,7 @@
 
 ### Social networks
 - Mastodon: coming
-- [Twitter](Twitter.com/hello_locked)
+- [Twitter](https:///twitter.com/hello_locked)
 
 
 # LICENSE 
