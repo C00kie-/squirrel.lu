@@ -1,4 +1,6 @@
 
+
+
 ### I'm an ex-teacher now working in IT sec ;)
 ### Articles and quickfix are dedicated to people who need a quick start or quick answer to question they might have, if it can help! :)
 
@@ -68,6 +70,10 @@
 ### Social networks
 - Mastodon: coming
 - [Twitter](https:///twitter.com/hello_locked)
+
+
+![Squirrel](https://github.com/C00kie-/squirrel.lu/blob/master/pictures/squirrel.jpg)
+
 
 
 # LICENSE 
