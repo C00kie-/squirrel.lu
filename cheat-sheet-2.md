@@ -1,3 +1,5 @@
+# Cheat sheet #2
+
 ## Create a MISP object
 
 ### MISP object location: /var/www/MISP/app/files/misp-objects/objects
