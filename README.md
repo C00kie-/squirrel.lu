@@ -62,7 +62,7 @@ If you want to know more about the conferences and the speakers, there are the c
 - DC11331 DEF CON Monthly meetup [site](dc11331.com)
 - Workshops :wrench: [IoT](https://github.com/C00kie-/workshop-materials)
 - FOSS day-to-day :wrench: [Tools](https://github.com/C00kie-/foss-tools/blob/master/README.md)
-- [ORCRIme](https://github.com/C00kie-/ORCRI) Online Ressources for **Crime Reporting and Investigation**, A curated list of ressources reporting criminal activity.
+- [ORCRIme](https://github.com/C00kie-/ORCRI) Online Resources for **Crime Reporting and Investigation**, A curated list of ressources reporting criminal activity.
 -  Mianmö Face Mask [Github](https://github.com/Mianmo-project/mask-models)
 - [Cities](https://www.flickr.com/photos/186756091@N02/) Photography project
 
@@ -76,9 +76,9 @@ If you want to know more about the conferences and the speakers, there are the c
 - December 2019, [2019, a little return of experience](./year-2019-a-little-return-of-experience)
   
 ## More conferences
-- Novembre 2019, Vienna, Deepsec, [Please, bias Me!](https://blog.deepsec.net/roots-2019-invited-talk-please-bias-me-pauline-bourmeau/)
-- January 2020, Leeds (UK), More hardware hacking, firmware extraction and analysis witn opensource tools
-- June 2020, Online, Pass The SALT 2020, Openning keynote with Alexandre Dulaunoy "How FOSS can help human to keep their sanity during a pandemic crisis? building better open source projects". [Slides](https://github.com/C00kie-/foss-tools/blob/master/best-practices/slides/slides.pdf)
+- November 2019, Vienna, Deepsec, [Please, bias Me!](https://blog.deepsec.net/roots-2019-invited-talk-please-bias-me-pauline-bourmeau/)
+- January 2020, Leeds (UK), More hardware hacking, firmware extraction and analysis with opensource tools
+- June 2020, Online, Pass The SALT 2020, ning keynote with Alexandre Dulaunoy "How FOSS can help human to keep their sanity during a pandemic crisis? building better open source projects". [Slides](https://github.com/C00kie-/foss-tools/blob/master/best-practices/slides/slides.pdf)
   
 ### Social networks
 - Mastodon: coming
