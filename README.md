@@ -15,7 +15,7 @@ def generate_prompt():
 # Contributions
 
 ## Hardware
-If conferences talks the date of the con if you want to find out more about speakers and the conference itself.
+If you want to know more about the conferences and the speakers, there are the conference editions
 - Manchester BeerSide,Bsides, [On chip debugging with Openocd](On-Chip-debugging-with-OpenOCD-and-GDB), August 2018
 - Luxembourg, Hack.Lu, [Snarf-if!](https://cfp.hack.lu/hacklu19/talk/8YR7UM/) Intro to hardware hacking, firmware extraction and analysis with opensource tools. Workshop :wrench: October 2019
 - Berlin, OffensiveCon :wrench: firmware extraction with Saumil Shah ARM Exploit Lab, February 2020
@@ -86,7 +86,11 @@ If conferences talks the date of the con if you want to find out more about spea
 
 # LICENSE 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](./LICENSE)
+
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
