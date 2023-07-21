@@ -62,12 +62,12 @@ If you want to know more about the conferences and the speakers, there are the c
 - DC11331 DEF CON Monthly meetup [site](dc11331.com)
 - Workshops :wrench: [IoT](https://github.com/C00kie-/workshop-materials)
 - FOSS day-to-day :wrench: [Tools](https://github.com/C00kie-/foss-tools/blob/master/README.md)
-- [ORCRIme](https://github.com/C00kie-/ORCRI) Online Resources for **Crime Reporting and Investigation**, A curated list of ressources reporting criminal activity.
+- [ORCRIme](https://github.com/C00kie-/ORCRI) Online Resources for **Crime Reporting and Investigation**, A curated list of resources reporting criminal activity.
 -  Mianmö Face Mask [Github](https://github.com/Mianmo-project/mask-models)
 - [Cities](https://www.flickr.com/photos/186756091@N02/) Photography project
 
 ## Crime investigation and reporting
-- OCCRI [Repository under construction](https://github.com/C00kie-/ORCRI) Ressources collection, tools for supporting analysis.
+- OCCRI [Repository under construction](https://github.com/C00kie-/ORCRI) Resources collection, tools for supporting analysis.
 ### Criminology:
 - DM @hello_locked mention:crimino in your first message.
 - update : just put online a list of references and journals for criminology students.
