@@ -12,17 +12,17 @@ def generate_prompt():
 ![Squirrel](https://github.com/C00kie-/squirrel.lu/blob/master/pictures/squirrel.jpg)
 
 
-
+# Contributions
 
 ## Hardware
-- August 2018, Manchester BeerSide,Bsides, [On chip debugging with Openocd](On-Chip-debugging-with-OpenOCD-and-GDB)
-- October 2019, Luxembourg, Hack.Lu, [Snarf-if!](https://cfp.hack.lu/hacklu19/talk/8YR7UM/) Intro to hardware hacking, firmware extraction and analysis with opensource tools. Workshop :wrench:
-- February 2020, Berlin, OffensiveCon :wrench: firmware extraction with Saumil Shah ARM Exploit Lab
-- February 2020, Paris, DEFCON Group meetup, "I love Hardboxes", OSINT for IoT & MISP workflow (easter egg if you find these slides: post on twitter #Ilovehardboxes)
+If conferences talks the date of the con if you want to find out more about speakers and the conference itself.
+- Manchester BeerSide,Bsides, [On chip debugging with Openocd](On-Chip-debugging-with-OpenOCD-and-GDB), August 2018
+- Luxembourg, Hack.Lu, [Snarf-if!](https://cfp.hack.lu/hacklu19/talk/8YR7UM/) Intro to hardware hacking, firmware extraction and analysis with opensource tools. Workshop :wrench: October 2019
+- Berlin, OffensiveCon :wrench: firmware extraction with Saumil Shah ARM Exploit Lab, February 2020
+- Paris, DEFCON Group meetup, "I love Hardboxes", OSINT for IoT & MISP workflow (easter egg if you find these slides: post on twitter #Ilovehardboxes), February 2020
 - [Opensource SmartWatch](./opensource-smartwatch)
 
-- ## Analyst toolbox
-- [A quick note about notes](./keeping-notes-for-creativity)
+## Analyst toolbox
 - [Statistical analysis with R](./statistics-with-R)
 - [NLP start with nltk library](./NLP-start-with-nltk)
 - [Tracelab OSINT VM quick setup](./Tracelabs-OSINT-VM-quick-setup)
@@ -31,21 +31,16 @@ def generate_prompt():
 - [Turn your screen to grayscale](Turn-your-screen-to-grayscale)
 - [Convert Markdown file to pdf with Pandoc](./convert-markdown-file-to-pdf)
 - [Cheat sheet #1](./cheat-sheet-1)
-- March 2022, [Convert .doc file to .pdf command line linux](./doc-to-pdf.md)
+- [Convert .doc file to .pdf command line linux](./doc-to-pdf.md)
 - [Doc to pdf](./doc-to-pdf)
 
-
 ## Cognition: Learning about learning
+- [A quick note about notes](./keeping-notes-for-creativity)
 - [Learn the techniques](./learn-the-techniques)
 - [Keep notes for creativity Joplin!](./keeping-notes-for-creativity)
 - [Quickfix: Decrypt an email without enigmail add-on](./decrypt-an-email-without-add-on)
 
-
-
 # OSINT
-
-
-
 ## MISP
 - [MISP Minimal config](./MISP-minimal-config)
 - [How to Make a MISP Import Script](https://www.misp-project.org/2020/09/30/How-To-Make-A-MISP-Import-Script.html)
@@ -54,9 +49,11 @@ def generate_prompt():
 - [Update MISP](./update-misp)
 - [Micro-training, Introduction to MISP, for CTI analysts](./intro-to-misp-CTI) (draft)
 - [Cheat sheet 2 (MISP)](./cheat-sheet-2.md)
-- MISP [Extended-events Taxonomy](https://www.misp-project.org/taxonomies.html#_extended_event)
-- MISP [Misinformation-website-label Taxonomy](https://www.misp-project.org/taxonomies.html#_misinformation_website_label)
+- [Extended-events Taxonomy](https://www.misp-project.org/taxonomies.html#_extended_event)
+- [Misinformation-website-label Taxonomy](https://www.misp-project.org/taxonomies.html#_misinformation_website_label)
+- [Create an import script](https://www.misp-project.org/authors/Pauline-Bourmeau/)
 
+# Repos & projects
 ## Projects you can find on github
 - [Gliax Stethoscope](https://github.com/GliaX/Stethoscope) with [La Paillasse](http://lapaillasse.org/)
 - DC11331 DEF CON Monthly meetup [site](dc11331.com)
@@ -84,17 +81,12 @@ def generate_prompt():
 - Mastodon: coming
 - [Twitter](https:///twitter.com/hello_locked)
 
-
-
 ## 42 Born2Code student support center:
 - DM @hello_locked
 
 # LICENSE 
-
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](./LICENSE)
-
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
-
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
