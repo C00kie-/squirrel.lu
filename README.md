@@ -52,6 +52,9 @@ If you want to know more about the conferences and the speakers, there are the c
 - [Extended-events Taxonomy](https://www.misp-project.org/taxonomies.html#_extended_event)
 - [Misinformation-website-label Taxonomy](https://www.misp-project.org/taxonomies.html#_misinformation_website_label)
 - [Create an import script](https://www.misp-project.org/authors/Pauline-Bourmeau/)
+  
+  
+![MISP](https://github.com/C00kie-/squirrel.lu/blob/master/pictures/misp-logo.png)
 
 # Repos & projects
 ## Projects you can find on github
