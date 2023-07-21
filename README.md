@@ -9,7 +9,7 @@ def generate_prompt():
     return prompt
 ```
 
-![Squirrel](https://github.com/C00kie-/squirrel.lu/blob/master/pictures/squirrel.jpg)
+![Squirrel](/pictures/squirrel.jpg)
 
 
 # Contributions
@@ -54,7 +54,7 @@ If you want to know more about the conferences and the speakers, there are the c
 - [Create an import script](https://www.misp-project.org/authors/Pauline-Bourmeau/)
   
   
-![MISP](https://github.com/C00kie-/squirrel.lu/blob/master/pictures/misp-logo.png)
+![MISP](/pictures/misp-logo.png)
 
 # Repos & projects
 ## Projects you can find on github
