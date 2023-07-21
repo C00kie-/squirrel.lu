@@ -1,7 +1,7 @@
 # Cheat sheet #3
 
 
-## Copy Ubuntu iso to a usb drive to boot on a computer.
+# Copy Ubuntu iso to a usb drive to boot on a computer.
 (macOs)
 
 `cd ~/Downloads`
