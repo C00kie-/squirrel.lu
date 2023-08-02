@@ -73,7 +73,7 @@ If you want to know more about the conferences and the speakers, there are the c
 # Repos & projects
 ## Projects you can find on github
 - [Gliax Stethoscope](https://github.com/GliaX/Stethoscope) with [La Paillasse](http://lapaillasse.org/)
-- DC11331 DEF CON Monthly meetup [site](dc11331.com)
+- DC11331 DEF CON Monthly meetup [site](www.dc11331.com)
 - Workshops :wrench: [IoT](https://github.com/C00kie-/workshop-materials)
 - FOSS day-to-day :wrench: [Tools](https://github.com/C00kie-/foss-tools/blob/master/README)
 - [ORCRIme](https://github.com/C00kie-/ORCRI) Online Resources for **Crime Reporting and Investigation**, A curated list of resources reporting criminal activity.
