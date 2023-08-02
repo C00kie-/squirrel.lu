@@ -30,7 +30,12 @@ If you want to know more about the conferences and the speakers, there are the c
 ## Unix tips
 - [Turn your screen to grayscale](./Turn-your-screen-to-grayscale)
 - [Convert Markdown file to pdf with Pandoc](./convert-markdown-file-to-pdf)
-- [Cheat sheet #1](./cheat-sheet-1)
+- [Cheat sheet #1](./cheat-sheet-1.md)
+- [Cheat sheet #2](./cheat-sheet-2.md)
+- [Cheat sheet #3](./cheat-sheet-3.md)
+- [Cheat sheet #4](./cheat-sheet-4.md)
+
+
 - [Convert .doc file to .pdf command line linux](./doc-to-pdf.md)
 - [Doc to pdf](./doc-to-pdf)
 
