@@ -99,8 +99,8 @@ If you want to know more about the conferences and the speakers, there are the c
 - [Twitter](https:///twitter.com/hello_locked)
 
 ## Contact:
-[linkedin](linkedin.com/in/paulinebourmeau)
-[twitter](twitter.com/hello_locked)
+[linkedin](www.linkedin.com/in/paulinebourmeau)
+[twitter](www.twitter.com/hello_locked)
 
 ## 42 Born2Code student support center:
 - DM @hello_locked
