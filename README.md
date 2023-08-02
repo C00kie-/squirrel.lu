@@ -102,6 +102,11 @@ If you want to know more about the conferences and the speakers, there are the c
 [linkedin](www.linkedin.com/in/paulinebourmeau)
 [twitter](www.twitter.com/hello_locked)
 
+## Ping Defcon group paris team
+
+![](www.dc111331.com)
+
+
 ## 42 Born2Code student support center:
 - DM @hello_locked
 
