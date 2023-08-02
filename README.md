@@ -30,13 +30,13 @@ If you want to know more about the conferences and the speakers, there are the c
 ## Unix tips
 - [Turn your screen to grayscale](./Turn-your-screen-to-grayscale)
 - [Convert Markdown file to pdf with Pandoc](./convert-markdown-file-to-pdf)
-- [Cheat sheet #1](./cheat-sheet-1.md)
-- [Cheat sheet #2](./cheat-sheet-2.md)
-- [Cheat sheet #3](./cheat-sheet-3.md)
-- [Cheat sheet #4](./cheat-sheet-4.md)
+- [Cheat sheet #1](./cheat-sheet-1)
+- [Cheat sheet #2](./cheat-sheet-2)
+- [Cheat sheet #3](./cheat-sheet-3)
+- [Cheat sheet #4](./cheat-sheet-4)
 
 
-- [Convert .doc file to .pdf command line linux](./doc-to-pdf.md)
+- [Convert .doc file to .pdf command line linux](./doc-to-pdf)
 - [Doc to pdf](./doc-to-pdf)
 
 ## Cognition: Learning about learning
@@ -53,7 +53,7 @@ If you want to know more about the conferences and the speakers, there are the c
 - [SSH a MISP virtual machine](./ssh-misp-vm)
 - [Update MISP](./update-misp)
 - [Micro-training, Introduction to MISP, for analysts](./intro-to-misp-CTI) **Training outline**
-- [Cheat sheet 2 (MISP)](./cheat-sheet-2.md)
+- [Cheat sheet 2 (MISP)](./cheat-sheet-2)
 - [Extended-events Taxonomy](https://www.misp-project.org/taxonomies.html#_extended_event)
 - [Misinformation-website-label Taxonomy](https://www.misp-project.org/taxonomies.html#_misinformation_website_label)
 - [Create an import script](https://www.misp-project.org/authors/Pauline-Bourmeau/)
@@ -71,7 +71,7 @@ If you want to know more about the conferences and the speakers, there are the c
 - [Gliax Stethoscope](https://github.com/GliaX/Stethoscope) with [La Paillasse](http://lapaillasse.org/)
 - DC11331 DEF CON Monthly meetup [site](dc11331.com)
 - Workshops :wrench: [IoT](https://github.com/C00kie-/workshop-materials)
-- FOSS day-to-day :wrench: [Tools](https://github.com/C00kie-/foss-tools/blob/master/README.md)
+- FOSS day-to-day :wrench: [Tools](https://github.com/C00kie-/foss-tools/blob/master/README)
 - [ORCRIme](https://github.com/C00kie-/ORCRI) Online Resources for **Crime Reporting and Investigation**, A curated list of resources reporting criminal activity.
 -  Mianmö Face Mask [Github](https://github.com/Mianmo-project/mask-models)
 - [Cities](https://www.flickr.com/photos/186756091@N02/) Photography project
@@ -93,6 +93,9 @@ If you want to know more about the conferences and the speakers, there are the c
 ### Social networks
 - Mastodon: coming
 - [Twitter](https:///twitter.com/hello_locked)
+
+## Contact:
+(linkedin)[linkedin.com/in/paulinebourmeau]
 
 ## 42 Born2Code student support center:
 - DM @hello_locked
