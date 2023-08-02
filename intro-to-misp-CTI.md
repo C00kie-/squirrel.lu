@@ -1,6 +1,6 @@
 ![MISP logo](./pictures/misp-logo.png)
 
-# MISP micro training for analysts CTI (draft)
+# MISP micro training for analysts CTI (draft you can edit for your own training)
 
 # Intro part 1 
 ------------------------------------
@@ -16,7 +16,7 @@ Full slide deck available from MISP training at : https://github.com/MISP/misp-t
 
 ## 1. Practical usage from user perspective
 
-**job purpose in our case:**
+**What can I do?**
 - collect indicators of compromised -> feed, free text import
 - write reports -> export
 - share informations with analysts -> sharing
@@ -27,7 +27,6 @@ Full slide deck available from MISP training at : https://github.com/MISP/misp-t
 	- what is a correlation in intelligence analysis?
 	- what a correlation is not in intel analysis?
 	- use correlation in MISP in order to:
-		- see slide 12 :	
 			- corroborate findings
 			- reinforce analysis
 			- confirm a specific aspect
@@ -36,29 +35,27 @@ Full slide deck available from MISP training at : https://github.com/MISP/misp-t
 ### Examples
 Operational security
 - searching & validating for indicators
-intelligence analysts
+Intelligence analysts
 - information gathering about adversary groups
-
-- Gather informations about campaigns and attack:
-	- are they related
-	- who is targeting me
-	- who are the adversaries
+  gather informations about campaigns and attack:
+	- are they related?
+	- who is targeting me?
+	- who are the adversaries?
 
 ## 2. What is MISP project
 
-- MISP is just a tool.
 - MISP project includes **best practices** (for data flow, sharing) in information sharing and **open standards** for importing and exporting data.
 
 
-Slide 9 misp project includes:
+Misp project includes:
+- a large community of Misp users and contributors
 - opensource software
-- intelligence and knowledge database
+- an intelligence practice and knowledge database
 - open standards
-- intelligence & sharing community
+- the possibility to join and build a sharing community
 
 Important:
-- MISP is build on **opensource software**
-
+- MISP is opensource
 - you can work with MISP modules to add expansions, export and import functionalities to MISP
 
 
@@ -76,7 +73,7 @@ Members of a sharing communities can be:
 - consumer
 - contributor
 - producer 
-...of information 
+...of "information" 
 
 
 ## 4. Data model: Events, objects, attributes & galaxies
@@ -84,10 +81,9 @@ Members of a sharing communities can be:
 ### Templates and contextualization 
 
 - Analysis with MISP is based on **"contextualy linked information"**
-- MISP used **templates** (object templates) to help the users to extend the data models of MISP.
+- MISP uses **templates** (object templates) to help the users to extend data models in MISP
 
-- **galaxies** are used for the categorization of the data and for more granularity (ex: threat actors, TTPs)
-- basic installation comes with a **standard set of cybersecurity indicators**
+- **galaxies** are used for the categorization of data and for more granularity (ex: threat actors, TTPs)
 
 ### Indicators and attributes
 
@@ -95,14 +91,15 @@ Members of a sharing communities can be:
 - "a pattern that can be used to detect suspicious or malicious cyber activity"
 
 **Attributes:**
-- Can be network indicators, system indicators, ex:bank account details
-- Attributes are **relative to an event** in MISP.
+- Can be network indicators, system indicators, or any non-technical information ex forensics ex:[banking]("https://www.misp-project.org/taxonomies.html#_financial")
+- Attributes are **relative to an event** in MISP
 - attributes can be grouped into an **object**
 
-**When you create an attribute you add:**
+**When you create an attribute you can add:**
 - the type: ex MD5 how is the information encoded
 - the category: payload delivery
 - if it has an IDS flag (is it used in an IDS)
+-  ...
 
 ### Events
 
@@ -121,7 +118,7 @@ While creating an event, you are asked to specify a **tagging** (if needed) and 
 |distribution|
 
 ### Events: Classification with tagging 
-- use it to be efficient, avoid NOISE
+- use it to be efficient, **avoid NOISE**
 - tagging scheme exists in taxonomies, your own can be created (ex: a client can have his own tagging scheme and taxonomies)
 
 ### Events: Sharing 
@@ -151,9 +148,9 @@ admiralty-scale:source-reliability="c"
 ### Taxonomies
 
 - implemented in JSON format
-- taxonomies are in an independant Git repository (github.com/MISP/misp-taxonomies)
+- taxonomies are in an independant Git [repository](github.com/MISP/misp-taxonomies)
 
-|existing taxonomies|
+|some existing taxonomies|
 |-|
 |NATO - Admiralty Scale|
 |CIRCL Taxonomy - Schemes of Classification in Incident|
@@ -170,7 +167,7 @@ admiralty-scale:source-reliability="c"
 
 taxonomies create tags:
 example the distribution of events among MISP instances
-(push rules) slide 113 
+(push rules)
 
 manage taxonomies with PyTaxonomies (Python 3 module)
 
@@ -194,7 +191,7 @@ CFFC 22BD 4CD5
 # Intro part 2             
 # Get you hands dirty, general usage part 1:
 Check once view and understood:
-1. - [ ] Installing and running a MISP VM
+1. - [ ] installing and running a MISP VM
 1. - [ ] create and populate an event
 1. - [ ] viewing data
 1. - [ ] export and API
@@ -207,9 +204,9 @@ download from last image (circl.lu/misp-images/latest)
 creds for machine:
 	- MISP admin: admin@admin.test
 	- SSH: misp/Password1234
-- First thing you are asked to do is to change the password.
-- Secondly you will create an organisation and a user.
-- Then you'll log into MISP with this new user account.
+- first thing you are asked to do is to change the password.
+- secondly you will create an organisation and a user.
+- then you'll log into MISP with this new user account.
 
 ## 2. Create and populate an event 
 - add attribute, **batch add** (import multiple to creation of unique attributes)
@@ -238,7 +235,7 @@ There are 4 important points to start:
 
 ## 4. Exports and API
 
-- Download an event from MISP: multiple formats
+- download an event from MISP: multiple formats
 - API* (for automatic publication)
 - **Download search results**
 - case of **cached exports**
@@ -246,9 +243,9 @@ There are 4 important points to start:
 # MISP general usage part 2
 Check once view and understood:
 
-1. - [ ] Synchronization
-1. - [ ] Feeds
-1. - [ ] Collaborating
+1. - [ ] synchronization
+1. - [ ] feeds
+1. - [ ] collaborating
 1. - [ ] MISP basic admin
 1. - [ ] MISP modules
 1. - [ ] PyMISP
@@ -299,7 +296,7 @@ We use **warning lists** at the exportation of data
 see part SIEM integration 
 
 ## 5. MISP modules
-Existing MISP modules
+Existing MISP modules ex:
 - Viper
 	- CLI for Passive SSL
 	- CLI for Passive DNS
@@ -311,7 +308,6 @@ Existing MISP modules
  API: **PyMISP**, API : no integration with the UI
  
  Three types of modules:
- 
 - Expansion modules
 - Import modules
 - Export modules
@@ -325,8 +321,6 @@ Existing MISP modules
 ### MISP admin training with MISP VM 
 
 https://www.circl.lu/misp-training
-
-All installation and first tasks as admin (slides 83-104)
 
  
  ### MISP module, UI configuration
