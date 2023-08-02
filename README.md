@@ -38,6 +38,8 @@ If you want to know more about the conferences and the speakers, there are the c
 - [Cheat sheet #2](./cheat-sheet-2)
 - [Cheat sheet #3](./cheat-sheet-3)
 - [Cheat sheet #4](./cheat-sheet-4)
+-  [Quickfix: Decrypt an email without enigmail add-on](./decrypt-an-email-without-add-on)
+
 
 
 - [Convert .doc file to .pdf command line linux](./doc-to-pdf)
@@ -46,7 +48,6 @@ If you want to know more about the conferences and the speakers, there are the c
 - [A quick note about notes](./keeping-notes-for-creativity)
 - [Learn the techniques](./learn-the-techniques)
 - [Keep notes for creativity Joplin!](./keeping-notes-for-creativity)
-- [Quickfix: Decrypt an email without enigmail add-on](./decrypt-an-email-without-add-on)
 
 # OSINT
 ## MISP
