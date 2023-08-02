@@ -13,7 +13,7 @@ def generate_prompt():
 
 
 
-Contact:   [Twitter](twitter.com/hello_locked)   [Linkedin](www.linkedin.com/in/paulinebourmeau)
+Contact:   [Twitter](www.twitter.com/hello_locked)   [Linkedin](www.linkedin.com/in/paulinebourmeau)
 
 
 # Contributions
