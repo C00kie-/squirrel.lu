@@ -17,3 +17,4 @@ sudo apt update
 sudo apt install element-desktop
 ```
 
+official (element website)[https://element.io/download#linux]
