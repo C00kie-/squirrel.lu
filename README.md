@@ -104,7 +104,7 @@ If you want to know more about the conferences and the speakers, there are the c
 
 ## Ping Defcon group paris team
 
-![](www.dc111331.com)
+![pictures/df.png](www.dc111331.com)
 
 
 ## 42 Born2Code student support center:
