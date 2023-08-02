@@ -41,7 +41,6 @@ If you want to know more about the conferences and the speakers, there are the c
 
 
 - [Convert .doc file to .pdf command line linux](./doc-to-pdf)
-- [Doc to pdf](./doc-to-pdf)
 
 ## Cognition: Learning about learning
 - [A quick note about notes](./keeping-notes-for-creativity)
