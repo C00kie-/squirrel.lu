@@ -1,6 +1,6 @@
 ![MISP logo](./pictures/misp-logo.png)
 
-# MISP micro training for analysts CTI (draft you can edit for your own training)
+# MISP micro training for analysts CTI (outline you can edit for your own training)
 
 # Intro part 1 
 ------------------------------------
