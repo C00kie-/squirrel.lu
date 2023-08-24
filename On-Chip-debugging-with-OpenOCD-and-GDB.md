@@ -1,9 +1,11 @@
 ## On Chip debugging with OpenOCD and GDB
 
-Running OpenOCD on a machine to run On-chip debugging with GDB is kinda magic. This first tutorial covers the installation and configuration for OpenOCD on a debian based machine, for ARM chip debugging.
+Topic: Running OpenOCD on a machine to run On-chip debugging with GDB. This first tutorial covers the installation and configuration for OpenOCD on a debian based machine, for ARM chip debugging.
 
-You need an interface that will make the connection between your chip and the computer. Here I use a ST-LINK USB dongle. And finally, you’ll need the chip itself.
+Microcontroller= https://en.wikipedia.org/wiki/STM32 family
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fktechnics.com%2Fproduct%2Fstm32f103c8t6-arm-stm32-development-board-2%2F&psig=AOvVaw1QcZVaDRV8ANvA_xjY1DsK&ust=1693001644385000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCPD87vGo9oADFQAAAAAdAAAAABAD)
 
+You need an interface that will make the connection between your chip and the computer. Here I use a ST-LINK V2 USB dongle (ST-LINK programmer and debugger). 
 Source code : https://sourceforge.net/p/openocd/code/ci/master/tree/
 
 ### GDB
@@ -56,8 +58,8 @@ Instructions for building comes with dependencies installation that you must hav
 Each time you change something related to these dependencies, you have to recompile the program, it includes reloading the installation framework updated with configurations you changed. 
 ```
 $make re
-OpenOCD is installed
 ```
+OpenOCD is installed
 
 Now go to the main folder where is your openocd executable.
 As we previously mentioned there are folders what would be useful to take a look :
