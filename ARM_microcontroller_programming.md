@@ -1,6 +1,6 @@
 ## ARM Microcontroller programming with OpenOCD and GDB
 
-Topic: Running OpenOCD on a machine to run On-chip debugging with GDB. This first tutorial covers the installation and configuration for OpenOCD on a debian based machine, for ARM chip debugging.
+This first tutorial covers the installation and configuration for OpenOCD on a debian based machine.
 
 [About the STM32](https://en.wikipedia.org/wiki/STM32) ![stm32](pictures/STM32F103C8T6-ARM-STM32-1-1.webp)
 
@@ -19,21 +19,23 @@ Before beginning debugging, I recommend that you familiarize yourself with the f
 
 Breakpoints allow you to pause execution and observe the proceedings while running various commands.
 
-You can see how the executable behaves by examining assembly code as it runs on the machine, for examples through register inspection. The objective of this low-level approach is to comprehend the machine's activities from a memory perspective.
+You can see how the executable behaves by examining assembly code as it runs on the machine, for examples through register inspection. 
+
+The objective of this low-level approach is to comprehend the machine's activities from a memory perspective.
 
 For more insights on why memory allocation matters, refer to this resource: [Memory management](https://en.wikipedia.org/wiki/Memory_management)
 
-I also suggest utilizing 'GEF)[https://github.com/hugsy/gef], a GDB plugin which integrates features like colored output and segmented information display for registers, stack, flags, and miscellaneous commands. 
+I also suggest utilizing (GEF)[https://github.com/hugsy/gef], a GDB plugin which integrates features like colored output and segmented information display for registers, stack, flags, and miscellaneous commands. 
 
 ### Installation
 
 First, in order to install OpenOCD properly and don’t mess with the configuration, I recommend trying the easy way installation.
 
-Run an apt-get install openocd directly from your Debian GNU Linux distribution.
+Run an ```apt-get install openocd``` directly from your Debian GNU Linux distribution.
 
 ### Running
 
-Once you run the program, choose in the folders of the .cfg files for your interface name and your chip name.
+Once you run the program, choose in the folders of the ```.cfg``` files for your interface name and your chip name.
 
 Run the command :
 ```
