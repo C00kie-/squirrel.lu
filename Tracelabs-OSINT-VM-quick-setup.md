@@ -7,31 +7,25 @@ Download the .ova from [Tracelabs website](https://www.tracelabs.org/trace-labs-
 Check your download integrity (SHA256 hash).
 
 ### Set Keyboard:
-The VM is neat, and very cool. Before starting working with it, I recommend doing a few updates and setups (at your discretion).
+The VM is neat, and very cool. Before starting working with it, I recommend doing updates.
+User:password are osint:osint 
 
-First set your keyboard: 
-Open a terminal (ĉ alt t)and 
+### Update the VM:
 
-$setxkbmap [lang] (it can be fr if you need and azerty for example)
-note: as kali:kali is the user:password by default, you may have ecounter a bit struggle with the keyboard mapping.
-
-There are two things you absolutely must do: update and/or upgrades of your VM, and change the default password.
-
-## Updating:
-### For updating programs on the VM:
 Run the script "Update System", visible on Desktop.
 
 or
 
-### Run updates:
-  $sudo apt update
-  $sudo apt upgrade -y 
 
-note: "apt" stands for Aptitude, it's a package manager for this Debian based distribution. 
+Open a terminal (ĉ alt t) then:
+```
+$sudo apt update
+$sudo apt upgrade -y
+```
+If you are not familiar with linux, "apt" stands for Aptitude, it's a package manager for this Debian based distribution. You can use "snap" instead in the command for more recent debian based OS.
 
 It might take a bit of time.
 [coffee]
-
 
 You may need to reboot your vm:
   $sudo reboot
@@ -63,20 +57,4 @@ $adduser
 - Note that the default search bar reference to DuckDuckGo, you can change this setting by going to Preferences, Search, Search Bar, and select the one your want (Youtube, Google, DuckDuckGoOnion,Startpage,Twitter,Wikipedia, Yahoo).
 
 - Note that any cookies and site data will be cleared when you close a Tor Browser.
-
-
-
-# General remarks
-
-It's not an exaustive covering of the topic, but a few remarks regarding an usage I have. I consider this can make sense to other people too.
-
-PROS: Potential of the VM, to collect a set of tools.
-
-Last releases of :
-- [The Harvester](https://github.com/laramies/theHarvester/releases/tag/V3.1)
-
-CONS: 
-- As Kali Linux runs root: create a user.
-- Careful, when you change the keyboard map, it won't be recognized outside of your session. Your password then might be broken.
-- Check for tools that are still maintained. Report tools that aren't : [report bug](https://github.com/tracelabs/tlosint-live), and report bugs to Github page of the tool too.
 
