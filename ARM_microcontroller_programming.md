@@ -25,7 +25,7 @@ The objective of this low-level approach is to comprehend the machine's activiti
 
 For more insights on why memory allocation matters, refer to this resource: [Memory management](https://en.wikipedia.org/wiki/Memory_management)
 
-I also suggest utilizing (GEF)[https://github.com/hugsy/gef], a GDB plugin which integrates features like colored output and segmented information display for registers, stack, flags, and miscellaneous commands. 
+I also suggest utilizing [GEF](https://github.com/hugsy/gef), a GDB plugin which integrates features like colored output and segmented information display for registers, stack, flags, and miscellaneous commands. 
 
 ### Installation
 
@@ -115,9 +115,12 @@ Licensed under GNU GPL v2
 
 Tip: In case you need to debug your openocd command, the first line gives you precious information about the version you installed on your machine.
 
-Once you selected the names of your interface and board (a quick look at the .cfg files will inform you also), you can ask Openocd to directly include these file with the -s option. In the other case, you’ll have to write the full path of the .cfg files you want to include.
+After you selected the names of your interface and board (a quick look at the .cfg files will inform you also), you can ask Openocd to directly include these file with the -s option. 
 
-Now write the openocd command to run the debugging server with the configuration files you associated :
+Or you can to write the full path of the .cfg files you want to include.
+
+Run the debugging server:
+
 ```
     $ sudo openocd -f [interface] -f[target]
 ```
@@ -167,11 +170,19 @@ Info : Listening on port 3333 for gdb connections
 ~~~~
 ```
 
-Brilliant ! So what does it tell us? That everything is working, even if I have a warning, telling me my version of ST-LINK v2 file is depreciated. (I figured out that it linked directly to the st-link.cfg file instead).
+Brilliant ! So what does it tell us? That everything is working, even if I have a warning, telling me in this example that my version of ST-LINK v2 file is depreciated. 
+
+
+- Listening ports
+- Clock speed
+- Interface
+- Target Voltage
+- Listening port for gdb 3333
 
 ### Start Debugging!
 
 \o/
+
 
 
 ### Trouble shooting
