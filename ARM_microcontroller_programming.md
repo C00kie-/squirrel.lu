@@ -15,9 +15,13 @@ You need an interface that will make the connection between your chip and the co
 
 ## GDB
 
-Before beginning debugging, I recommend that you familiarize yourself with the fundamental concepts behind GDB. Breakpoints allow you to pause execution and observe the proceedings while running various commands. You can scrutinize how the executable behaves by examining assembly code as it runs on the machine, which can be facilitated through register inspection, for instance. The objective of this low-level approach is to comprehend the machine's activities from a memory perspective.
+Before beginning debugging, I recommend that you familiarize yourself with the fundamental concepts behind GDB. 
 
-For more insights on why memory allocation matters, refer to this resource: Memory Allocation PDF.
+Breakpoints allow you to pause execution and observe the proceedings while running various commands.
+
+You can see how the executable behaves by examining assembly code as it runs on the machine, for examples through register inspection. The objective of this low-level approach is to comprehend the machine's activities from a memory perspective.
+
+For more insights on why memory allocation matters, refer to this resource: [Memory management](https://en.wikipedia.org/wiki/Memory_management)
 
 I also suggest utilizing GEF, a GDB plugin that enhances functionality by incorporating features like colored output and segmented information display for registers, stack, flags, and miscellaneous commands. GEF leverages a Python API for Dynamic Analysis, so ensure that you have the latest or a compatible version of Python installed on your machine prior to executing the installation scripts.
 
