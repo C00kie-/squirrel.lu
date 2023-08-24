@@ -23,13 +23,7 @@ You can see how the executable behaves by examining assembly code as it runs on 
 
 For more insights on why memory allocation matters, refer to this resource: [Memory management](https://en.wikipedia.org/wiki/Memory_management)
 
-I also suggest utilizing GEF, a GDB plugin that enhances functionality by incorporating features like colored output and segmented information display for registers, stack, flags, and miscellaneous commands. GEF leverages a Python API for Dynamic Analysis, so ensure that you have the latest or a compatible version of Python installed on your machine prior to executing the installation scripts.
-
-You can find GEF on GitHub.
-
-Challenge: If you intend to debug an ARM-based chip, you must first configure GDB for this architecture.
-
-Additionally, GDB operates a debugging server that logs your progress. By employing the configurations (port and address) provided in the OpenOcd config files, you can use Telnet to connect to your device
+I also suggest utilizing 'GEF)[https://github.com/hugsy/gef], a GDB plugin which integrates features like colored output and segmented information display for registers, stack, flags, and miscellaneous commands. 
 
 ### Installation
 
