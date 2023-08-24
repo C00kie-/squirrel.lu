@@ -32,7 +32,6 @@ If you want to know more about the conferences and the speakers, there are the c
 - [Tracelab OSINT VM quick setup](./Tracelabs-OSINT-VM-quick-setup)
   
 ## Unix tips
-- [Turn your screen to grayscale](./Turn-your-screen-to-grayscale)
 - [Convert Markdown file to pdf with Pandoc](./convert-markdown-file-to-pdf)
 - [Cheat sheet #1](./cheat-sheet-1)
 - [Cheat sheet #2](./cheat-sheet-2)
