@@ -1,4 +1,4 @@
-## ARM Microcontroller programming with OpenOCD and GDB
+## ARM Microcontroller debugging with OpenOCD and GDB
 
 This first tutorial covers the installation and configuration for OpenOCD on a debian based machine.
 
@@ -10,7 +10,7 @@ You need an interface that will make the connection between your chip and the co
 
 ![ST-LINK](pictures/st-link-v2-programmer-for-stm8-and-stm32-500x500.webp)
 
-### OpenOCD Source code
+### OpenOCD - Open On Chip Debugger- Source code
 [Source](https://sourceforge.net/p/openocd/code/ci/master/tree/)
 
 ## GDB
