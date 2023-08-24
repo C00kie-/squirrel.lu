@@ -6,20 +6,16 @@
 After a while (9300s) wondering how to make a pdf export from a atom generated markdown (...I know), without any success, finaly I went to Pandoc.
 
 First download the pandoc installer for debian based distro here Ubuntu:
-https://github.com/jgm/pandoc/releases/tag/2.10.1
+[releases](https://github.com/jgm/pandoc/releases)
 
-Install the package with:  sudo dpkg -i pandoc-2.10.1-1-amd64.deb 
+Install the package with:  sudo dpkg -i pandoc-[release_version]
 
 	pandoc --version: 
 
-pandoc 2.10.1
-Compiled with pandoc-types 1.21, texmath 0.12.0.2, skylighting 0.8.5
-Default user data directory: /home/x/.local/share/pandoc or /home/x/.pandoc
-Copyright (C) 2006-2020 John MacFarlane
-Web:  https://pandoc.org
-This is free software; see the source for copying conditions.
-There is no warranty, not even for merchantability or fitness
-for a particular purpose.
+pandoc 3.1.5
+Features: +server +lua
+Scripting engine: Lua 5.4
+[...]
 
 
 ## Some packages are to install ([LaTeX](https://fr.wikipedia.org/wiki/LaTeX) packages) : 
