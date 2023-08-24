@@ -2,13 +2,18 @@
 
 Topic: Running OpenOCD on a machine to run On-chip debugging with GDB. This first tutorial covers the installation and configuration for OpenOCD on a debian based machine, for ARM chip debugging.
 
-Microcontroller= https://en.wikipedia.org/wiki/STM32 family
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fktechnics.com%2Fproduct%2Fstm32f103c8t6-arm-stm32-development-board-2%2F&psig=AOvVaw1QcZVaDRV8ANvA_xjY1DsK&ust=1693001644385000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCPD87vGo9oADFQAAAAAdAAAAABAD)
+Microcontroller= https://en.wikipedia.org/wiki/STM32 ![stm32](pictures/STM32F103C8T6-ARM-STM32-1-1.webp)
 
 You need an interface that will make the connection between your chip and the computer. Here I use a ST-LINK V2 USB dongle (ST-LINK programmer and debugger). 
-Source code : https://sourceforge.net/p/openocd/code/ci/master/tree/
 
-### GDB
+Programmer=[doc](https://stm32world.com/wiki/DIY_STM32_Programmer_(ST-Link/V2-1))
+
+![ST-LINK](pictures/st-link-v2-programmer-for-stm8-and-stm32-500x500.webp)
+
+### OpenOCD Source code
+[Source](https://sourceforge.net/p/openocd/code/ci/master/tree/)
+
+## GDB
 
 Before beginning debugging, I recommend that you familiarize yourself with the fundamental concepts behind GDB. Breakpoints allow you to pause execution and observe the proceedings while running various commands. You can scrutinize how the executable behaves by examining assembly code as it runs on the machine, which can be facilitated through register inspection, for instance. The objective of this low-level approach is to comprehend the machine's activities from a memory perspective.
 
