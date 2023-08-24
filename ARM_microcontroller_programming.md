@@ -1,4 +1,4 @@
-## Microcontroller programming with OpenOCD and GDB
+## ARM Microcontroller programming with OpenOCD and GDB
 
 Topic: Running OpenOCD on a machine to run On-chip debugging with GDB. This first tutorial covers the installation and configuration for OpenOCD on a debian based machine, for ARM chip debugging.
 
