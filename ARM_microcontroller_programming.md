@@ -2,11 +2,11 @@
 
 Topic: Running OpenOCD on a machine to run On-chip debugging with GDB. This first tutorial covers the installation and configuration for OpenOCD on a debian based machine, for ARM chip debugging.
 
-Microcontroller= https://en.wikipedia.org/wiki/STM32 ![stm32](pictures/STM32F103C8T6-ARM-STM32-1-1.webp)
+[About the STM32](https://en.wikipedia.org/wiki/STM32) ![stm32](pictures/STM32F103C8T6-ARM-STM32-1-1.webp)
 
 You need an interface that will make the connection between your chip and the computer. Here I use a ST-LINK V2 USB dongle (ST-LINK programmer and debugger). 
 
-Programmer=[doc](https://stm32world.com/wiki/DIY_STM32_Programmer_(ST-Link/V2-1))
+[About the ST-LINK V2 (the programmer)](https://stm32world.com/wiki/DIY_STM32_Programmer_(ST-Link/V2-1))
 
 ![ST-LINK](pictures/st-link-v2-programmer-for-stm8-and-stm32-500x500.webp)
 
