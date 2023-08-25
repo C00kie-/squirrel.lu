@@ -1,15 +1,15 @@
 ## A quick note about notes
 
-It's all a process, everyone got his process, and it's often not enough. But how a good notes system is related to creativity?
+How a good notes system is related to creativity?
 I'll take a big shortcut here: you are more creative and feel better if your mind is clear from noise.
 Easy say, well, no so.
 
-I have a mantra, sort of; as I have a poor memory when I need to find something I have done (like um code or something to solve a problem...) I know I need to keep notes of everything.
+I have a mantra, sort of; as I have a poor memory when I need to find something I have done (like um code or something to solve a problem...sounds familiar?) I know I need to keep notes of everything.
 
 Writing is also a dirty process that can create a lot of noise, let say here: garbage ideas; drafts for the most lucky.
 
 
-I discover experiment after experiment that nothing works first shot. (Sounds familiar uh?)
+I discover experiment after experiment that nothing works first shot. (Sounds familiar too uh?)
 
 **1/I tried the man-like kind of note, with header, strict template, indentation etc...**
 
