@@ -1,4 +1,4 @@
-## ARM Microcontroller debugging with OpenOCD and GDB
+
 
 This first tutorial covers the installation and configuration for OpenOCD on a debian based machine.
 
