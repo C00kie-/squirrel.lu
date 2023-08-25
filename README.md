@@ -14,7 +14,7 @@ def generate_prompt():
 Contact:   [Twitter](www.twitter.com/hello_locked)   [Linkedin](www.linkedin.com/in/paulinebourmeau)
 
 
-# Contributions
+# Opensource
 
 ## Hardware
 - Manchester BeerSide,Bsides, [On chip debugging with Openocd](ARM_microcontroller_programming) (ARM microcontroller programming), August 2018
@@ -34,15 +34,8 @@ Contact:   [Twitter](www.twitter.com/hello_locked)   [Linkedin](www.linkedin.com
 - [Cheat sheet #3](./cheat-sheet-3)
 - [Cheat sheet #4](./cheat-sheet-4)
 -  [Quickfix: Decrypt an email without enigmail add-on](./decrypt-an-email-without-add-on)
-
-
-
 - [Convert .doc file to .pdf command line linux](./doc-to-pdf)
 
-## Cognition: Learning about learning
-- [A quick note about notes](./keeping-notes-for-creativity)
-- [Learn the techniques](./learn-the-techniques)
-- [Keep notes for creativity Joplin!](./keeping-notes-for-creativity)
 
 # OSINT
 ## MISP
@@ -64,6 +57,12 @@ Contact:   [Twitter](www.twitter.com/hello_locked)   [Linkedin](www.linkedin.com
 
 
 
+# Blogposts
+
+## Cognition: Learning about learning
+- [A quick note about notes](./keeping-notes-for-creativity)
+- [Learn the techniques](./learn-the-techniques)
+- [Keep notes for creativity Joplin!](./keeping-notes-for-creativity)
 
 # Repos & projects
 ## Projects you can find on github
