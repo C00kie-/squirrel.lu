@@ -92,7 +92,7 @@ Contact:   [Twitter](www.twitter.com/hello_locked)   [Linkedin](www.linkedin.com
 - June 2020, Online, Pass The SALT 2020, ning keynote with Alexandre Dulaunoy "How FOSS can help human to keep their sanity during a pandemic crisis? building better open source projects". [Slides](https://github.com/C00kie-/foss-tools/blob/master/best-practices/slides/slides.pdf)
   
 ### Social networks
-- Mastodon: coming
+- [Mastodon](@C00kie_two@infosec.exchange)
 - [Twitter](https:///twitter.com/hello_locked)
 
 ## Contact:
@@ -110,7 +110,7 @@ Contact:   [Twitter](www.twitter.com/hello_locked)   [Linkedin](www.linkedin.com
 ## 42 Born2Code student support center:
 - DM @hello_locked
 
-# LICENSE 
+### LICENSE 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](./LICENSE)
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
