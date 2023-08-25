@@ -50,6 +50,8 @@ Contact:   [Twitter](www.twitter.com/hello_locked)   [Linkedin](www.linkedin.com
 - [Misinformation-website-label Taxonomy](https://www.misp-project.org/taxonomies.html#_misinformation_website_label)
 - [Create an import script](https://www.misp-project.org/authors/Pauline-Bourmeau/)
 
+Good links:
+[Creating a MISP object - Koen Von Impe](https://www.misp-project.org/2021/03/17/MISP-Objects-101.html/)
 
   
   
