@@ -9,8 +9,6 @@ def generate_prompt():
     return prompt
 ```
 
-![Squirrel](/pictures/squirrel.jpg)
-
 
 
 Contact:   [Twitter](www.twitter.com/hello_locked)   [Linkedin](www.linkedin.com/in/paulinebourmeau)
