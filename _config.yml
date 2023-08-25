@@ -1,3 +1,3 @@
-remote_theme: cotes2020/jekyll-theme-chirpy
+remote_theme: abhn/Wall-E
 plugins:
 - jekyll-remote-theme 
