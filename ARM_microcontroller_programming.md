@@ -194,6 +194,7 @@ ARM architecture-specific GDB configuration: search into your package manager if
 gdb-arm-none-eabi – GNU debugger for ARM Cortex-A/R/M processors
 
     $ sudo apt-get install gdb-arm-none-eabi
+```
 
 Then instead of running gdb this way
 
@@ -201,6 +202,7 @@ Then instead of running gdb this way
 $gdb
 ```
 do
+
 ```
 $gdb-arm-none-eabi
 
