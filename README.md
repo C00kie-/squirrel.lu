@@ -67,8 +67,8 @@ Good links:
 
 # Repos & projects
 ## Projects you can find on github
-- [Gliax Stethoscope](https://github.com/GliaX/Stethoscope) with [La Paillasse](http://lapaillasse.org/)
-- DC11331 DEF CON Monthly meetup [site](www.dc11331.com)
+- [Gliax Stethoscope](https://github.com/GliaX/Stethoscope) with [La Paillasse](https://lapaillasse.org/)
+- DC11331 DEF CON Monthly meetup [site](https://www.dc11331.com)
 - Workshops :wrench: [IoT](https://github.com/C00kie-/workshop-materials)
 - FOSS day-to-day :wrench: [Tools](https://github.com/C00kie-/foss-tools/blob/master/README)
 - [ORCRIme](https://github.com/C00kie-/ORCRI) Online Resources for **Crime Reporting and Investigation**, A curated list of resources reporting criminal activity.
