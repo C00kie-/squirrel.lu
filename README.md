@@ -70,10 +70,9 @@ Good links:
 - [Gliax Stethoscope](https://github.com/GliaX/Stethoscope) with [La Paillasse](https://lapaillasse.org/)
 - DC11331 DEF CON Monthly meetup [site](https://www.dc11331.com)
 - Workshops :wrench: [IoT](https://github.com/C00kie-/workshop-materials)
-- FOSS day-to-day :wrench: [Tools](https://github.com/C00kie-/foss-tools/blob/master/README)
-- [ORCRIme](https://github.com/C00kie-/ORCRI) Online Resources for **Crime Reporting and Investigation**, A curated list of resources reporting criminal activity.
+- [ORCRIme](https://github.com/C00kie-/ORCRI) Online Resources for **Crime Reporting and Investigation**, A curated list of resources reporting criminal activity.  Coming back soon!
 -  Mianmö Face Mask [Github](https://github.com/Mianmo-project/mask-models)
-- [Cities](https://www.flickr.com/photos/186756091@N02/) Photography project
+- [Cities](https://www.flickr.com/photos/186756091@N02/) Photography project.
 
 ## Crime investigation and reporting
 - OCCRI [Repository under construction](https://github.com/C00kie-/ORCRI) Resources collection, tools for supporting analysis.
