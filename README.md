@@ -62,7 +62,7 @@ Good links:
 # Blogposts
 
 ## Cognition: Learning about learning
-- [Learn the techniques](./learn-the-techniques)
+- [Learn by solving problems](./learn-the-techniques)
 - [Keep notes for creativity Joplin!](./keeping-notes-for-creativity)
 
 # Repos & projects
