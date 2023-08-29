@@ -11,7 +11,7 @@ def generate_prompt():
 
 
 
-Contact:   [Twitter](www.twitter.com/hello_locked)   [Linkedin](www.linkedin.com/in/paulinebourmeau)
+Contact:   [Twitter](https://www.twitter.com/hello_locked)   [Linkedin](https://www.linkedin.com/in/paulinebourmeau)
 
 
 # Opensource
