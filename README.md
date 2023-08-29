@@ -62,7 +62,6 @@ Good links:
 # Blogposts
 
 ## Cognition: Learning about learning
-- [A quick note about notes](./keeping-notes-for-creativity)
 - [Learn the techniques](./learn-the-techniques)
 - [Keep notes for creativity Joplin!](./keeping-notes-for-creativity)
 
