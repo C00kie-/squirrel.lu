@@ -89,10 +89,6 @@ Good links:
 - [Mastodon](@C00kie_two@infosec.exchange)
 - [Twitter](https:///twitter.com/hello_locked)
 
-## Contact:
-[linkedin](www.linkedin.com/in/paulinebourmeau)
-[twitter](www.twitter.com/hello_locked)
-
 ## Ping Defcon group paris team
 
 ![dc11331](/pictures/df.png)
@@ -101,7 +97,7 @@ Good links:
 [Ping](www.dc11331.com)
 
 
-## 42 Born2Code student support center:
+## 42 Born2Code mentoring:
 - DM @hello_locked
 
 ### LICENSE 
