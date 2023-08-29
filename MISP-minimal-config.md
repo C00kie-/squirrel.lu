@@ -1,3 +1,5 @@
+# MISP (very) quick start minimal config
+
 Once you have MISP [downloaded](https://www.misp-project.org/download/) and installed on your machine, you connect to it with your browser, using the installation credentials.
 
 :warning:
