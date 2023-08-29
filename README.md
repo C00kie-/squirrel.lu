@@ -83,7 +83,7 @@ Good links:
 - update : just put online a list of references and journals for criminology students.
 
 ## Thoughts
-- December 2019, [2019, a little return of experience](./year-2019-a-little-return-of-experience)
+- December 2019, [Hello Hackers](./year-2019-a-little-return-of-experience)
   
 ## More conferences
 - November 2019, Vienna, Deepsec, [Please, bias Me!](https://blog.deepsec.net/roots-2019-invited-talk-please-bias-me-pauline-bourmeau/)
