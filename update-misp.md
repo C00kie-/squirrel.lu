@@ -57,7 +57,7 @@ in root:
 
 # Update Galaxies and Objects
 
-From UI:
+From GUI:
 ~~~
 Galaxies > Update Galaxies
 Global Actions > List Object Templates > Update Objects 
