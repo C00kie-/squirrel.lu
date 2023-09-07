@@ -6,7 +6,7 @@
 
 You must be admin,
 
-Go to 
+In the web interface, go to 
 ~~~
 Administration > Server Settings & Maintenance > Diagnostics > there you are
 ~~~
@@ -57,7 +57,7 @@ in root:
 
 # Update Galaxies and Objects
 
-From GUI:
+From the web interface:
 ~~~
 Galaxies > Update Galaxies
 Global Actions > List Object Templates > Update Objects 
