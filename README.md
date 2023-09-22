@@ -51,7 +51,7 @@ Contact:   [Twitter](https://www.twitter.com/hello_locked)   [Linkedin](https://
 - [Create an import script](https://www.misp-project.org/authors/Pauline-Bourmeau/)
 
 Good links:
-[Creating a MISP object - Koen Von Impe](https://www.misp-project.org/2021/03/17/MISP-Objects-101.html/)
+[Creating a MISP object - Koen Van Impe](https://www.misp-project.org/2021/03/17/MISP-Objects-101.html/)
 
   
   
