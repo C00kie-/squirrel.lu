@@ -3,7 +3,7 @@ def generate_prompt():
     prompt = '''Hello! It's Cookie's website. You will find here links for her publications on:
 - OSINT and MISP training's content
 - Hardware hacking RE and workshops
-- NLP
+- AI and NLP
 - Research projects
 - Also a couple of Unix tips and articles about cognition, how to train people and self-learning'''
     return prompt
