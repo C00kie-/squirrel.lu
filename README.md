@@ -1,3 +1,5 @@
+# Squirrel.lu
+
 ```
 def generate_prompt():
     prompt = '''Hello! It's Cookie's website. You will find here links for her publications on:
@@ -11,9 +13,19 @@ def generate_prompt():
 
 
 
-Contact:   [Twitter](https://www.twitter.com/hello_locked)   [Linkedin](https://www.linkedin.com/in/paulinebourmeau)
+
 
 ![Robot Squirrel](pictures/robot_squirrel.png)
+
+Image generated with stabilityai/stable-diffusion library.
+
+
+## Contact:
+[Twitter](https://www.twitter.com/hello_locked)   [Linkedin](https://www.linkedin.com/in/paulinebourmeau)
+
+
+
+
 
 # Opensource
 
@@ -52,7 +64,7 @@ Contact:   [Twitter](https://www.twitter.com/hello_locked)   [Linkedin](https://
 - [Create an import script](https://www.misp-project.org/authors/Pauline-Bourmeau/)
 
 Good links:
-[Creating a MISP object - Koen Von Impe](https://www.misp-project.org/2021/03/17/MISP-Objects-101.html/)
+[Creating a MISP object - Koen Van Impe](https://www.misp-project.org/2021/03/17/MISP-Objects-101.html/)
 
   
   
@@ -100,6 +112,10 @@ Good links:
 
 ## 42 Born2Code mentoring:
 - DM @hello_locked
+
+
+
+
 
 ### LICENSE 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](./LICENSE)
