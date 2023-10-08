@@ -21,7 +21,10 @@ Image generated with stabilityai/stable-diffusion library.
 
 
 ## Contact:
-[Twitter](https://www.twitter.com/hello_locked)   [Linkedin](https://www.linkedin.com/in/paulinebourmeau)
+|là|là|ou là|
+|-|-|-|
+|[Twitter](https://www.twitter.com/hello_locked)|[Linkedin](https://www.linkedin.com/in/paulinebourmeau)|[Infosec-Exchange](https://infosec.exchange/@C00kie_two)|
+ 
 
 
 
@@ -29,6 +32,12 @@ Image generated with stabilityai/stable-diffusion library.
 
 # Opensource
 
+
+## Workshops :wrench:
+
+- [Hardware](https://github.com/C00kie-/workshop-materials)
+- [Natural Language Processing](https://github.com/C00kie-/nlp-workshops)
+  
 ## Hardware
 - Manchester BeerSide,Bsides, [On chip debugging with Openocd](ARM_microcontroller_programming) (ARM microcontroller programming), August 2018
 - Luxembourg, Hack.Lu, [Intro to hardware hacking, firmware extraction and analysis](https://cfp.hack.lu/hacklu19/talk/8YR7UM/) with opensource tools. Workshop :wrench: October 2019
@@ -51,6 +60,7 @@ Image generated with stabilityai/stable-diffusion library.
 
 
 # OSINT
+
 ## MISP
 - [MISP Minimal config](./MISP-minimal-config)
 - [How to Make a MISP Import Script](https://www.misp-project.org/2020/09/30/How-To-Make-A-MISP-Import-Script.html)
@@ -79,6 +89,7 @@ Good links:
 - [Keep notes for creativity Joplin!](./keeping-notes-for-creativity)
 
 # Repos & projects
+
 ## Projects you can find on github
 - [Gliax Stethoscope](https://github.com/GliaX/Stethoscope) with [La Paillasse](https://lapaillasse.org/)
 - DC11331 DEF CON Monthly meetup [site](https://www.dc11331.com)
@@ -89,6 +100,7 @@ Good links:
 
 ## Crime investigation and reporting
 - OCCRI [Repository under construction](https://github.com/C00kie-/ORCRI) Resources collection, tools for supporting analysis.
+  
 ### Criminology:
 - DM @hello_locked mention:crimino in your first message.
 - update : just put online a list of references and journals for criminology students.
@@ -97,10 +109,12 @@ Good links:
 - November 2019, Vienna, Deepsec, [Please, bias Me!](https://blog.deepsec.net/roots-2019-invited-talk-please-bias-me-pauline-bourmeau/)
 - January 2020, Leeds (UK), More hardware hacking, firmware extraction and analysis with opensource tools
 - June 2020, Online, Pass The SALT 2020, ning keynote with Alexandre Dulaunoy "How FOSS can help human to keep their sanity during a pandemic crisis? building better open source projects". [Slides](https://github.com/C00kie-/foss-tools/blob/master/best-practices/slides/slides.pdf)
+
   
 ### Social networks
 - [Mastodon](@C00kie_two@infosec.exchange)
 - [Twitter](https:///twitter.com/hello_locked)
+
 
 ## Ping Defcon group paris team
 
