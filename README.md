@@ -109,7 +109,7 @@ Good links:
 - November 2019, Vienna, Deepsec, [Please, bias Me!](https://blog.deepsec.net/roots-2019-invited-talk-please-bias-me-pauline-bourmeau/)
 - January 2020, Leeds (UK), More hardware hacking, firmware extraction and analysis with opensource tools
 - June 2020, Online, Pass The SALT 2020, ning keynote with Alexandre Dulaunoy "How FOSS can help human to keep their sanity during a pandemic crisis? building better open source projects". [Slides](https://github.com/C00kie-/foss-tools/blob/master/best-practices/slides/slides.pdf)
-- October 2023, Budapest, Hacktivity - Intro to NLP workshop - 
+- October 2023, Budapest, Hacktivity, Natural Language Processing (NLP): A Hands-On Workshop
 
   
 ### Social networks
