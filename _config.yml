@@ -1,3 +1,17 @@
-remote_theme: 
+# Site Settings
+title: Squirrel.lu
+baseurl: "www.squirrel.lu"
+url: "http://squirrel.lu"
+
+# Theme Settings
+remote_theme: abhinavs/moonwalk
+
 plugins:
-- jekyll-remote-theme 
+  - jekyll-remote-theme
+
+# Exclude from processing.
+# The following items will not be processed or included in the site output.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
