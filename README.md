@@ -20,9 +20,14 @@ def generate_prompt():
 
 
 ## Contact:
-|là|là|ou là| Cubessa |
-|-|-|-|-|
-|[Twitter](https://www.twitter.com/hello_locked)|[Linkedin](https://www.linkedin.com/in/paulinebourmeau)|[Infosec-Exchange](https://infosec.exchange/@C00kie_two)|[Cubessa](www.cubessa.info)|
+
+[Twitter](https://www.twitter.com/hello_locked)
+
+[Linkedin](https://www.linkedin.com/in/paulinebourmeau)
+
+[Infosec-Exchange](https://infosec.exchange/@C00kie_two)
+
+[Cubessa](www.cubessa.info)
  
 
 
@@ -90,6 +95,8 @@ def generate_prompt():
 
 Good links:
 [Creating a MISP object - Koen Van Impe](https://www.misp-project.org/2021/03/17/MISP-Objects-101.html/)
+
+
 
   
   
