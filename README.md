@@ -36,6 +36,8 @@ def generate_prompt():
 
 - [Natural Language Processing](https://github.com/C00kie-/nlp-workshops)
 
+- [Matrix Room](https://matrix.to/#/#nlp-workshop:matrix.org) ![Matrix Room](pictures/element.png)
+  
   ![Pink robot](pictures/pink_robot.jpg)
 
 ## MISP
