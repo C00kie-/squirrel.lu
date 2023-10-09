@@ -29,8 +29,7 @@ def generate_prompt():
 
 
 
-# Workshops material :wrench:
-
+# Workshops material
 
 
 ## Artificial Intelligence
