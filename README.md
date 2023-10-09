@@ -27,7 +27,7 @@ def generate_prompt():
 
 [Infosec-Exchange](https://infosec.exchange/@C00kie_two)
 
-[Cubessa](www.cubessa.info)
+[Cubessa](https://www.cubessa.info)
  
 
 
@@ -144,7 +144,7 @@ Good links:
 ![dc11331](/pictures/df.png)
 
 :) :) :D 
-[Ping](www.dc11331.com)
+[Ping](https://www.dc11331.com)
 
 
 ## 42 Born2Code mentoring:
