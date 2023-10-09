@@ -121,7 +121,7 @@ Good links:
 - Cities - Photography project.
 
 ## Crime investigation and reporting
-- OCCRI [Repository under construction](https://github.com/C00kie-/ORCRI) Resources collection, tools for supporting analysis.
+- OCCRI Repository under construction, coming back soon! Resources collection, tools for supporting analysis.
   
 ### Criminology:
 - DM @hello_locked mention:crimino in your first message.
