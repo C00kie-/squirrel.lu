@@ -145,7 +145,7 @@ Good links:
 
 ## We support Opensource 
 
-![Cubessa](pictures/logo_color_red_no_text_black.jpg)
+[![Cubessa](pictures/logo_color_red_no_text_black.jpg)](www.cubessa.info)
 
 
 
