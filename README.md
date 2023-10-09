@@ -142,7 +142,9 @@ Good links:
 ## 42 Born2Code mentoring:
 - DM @hello_locked
 
+## We support Opensource 
 
+![Cubessa](pictures/logo_color_red_no_text_black.jpg)
 
 
 
