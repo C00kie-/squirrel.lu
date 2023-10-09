@@ -113,9 +113,9 @@ Good links:
 # Repos & projects
 
 ## Projects you can find on github
-- [Gliax Stethoscope](https://github.com/GliaX/Stethoscope) with [La Paillasse](https://lapaillasse.org/)
+- [Gliax Stethoscope](https://github.com/GliaX/Stethoscope) with La Paillasse
 - DC11331 DEF CON Monthly meetup [site](https://www.dc11331.com)
-- Workshops :wrench: [IoT](https://github.com/C00kie-/workshop-materials)
+- Workshops [IoT](https://github.com/C00kie-/workshop-materials)
 - ORCRIme Online Resources for **Crime Reporting and Investigation**, A curated list of resources reporting criminal activity.  Coming back soon!
 - Mianmö Face Mask [Github](https://github.com/Mianmo-project/mask-models)
 - Cities - Photography project.
@@ -132,12 +132,7 @@ Good links:
 - January 2020, Leeds (UK), More hardware hacking, firmware extraction and analysis with opensource tools
 - June 2020, Online, Pass The SALT 2020, ning keynote with Alexandre Dulaunoy "How FOSS can help human to keep their sanity during a pandemic crisis? building better open source projects".
 - October 2023, Budapest, Hacktivity, Natural Language Processing (NLP): A Hands-On Workshop
-
-  
-### Social networks
-- [Mastodon](@C00kie_two@infosec.exchange)
-- [Twitter](https:///twitter.com/hello_locked)
-
+- 
 
 ## Ping Defcon group paris team
 
