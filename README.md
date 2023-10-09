@@ -2,7 +2,7 @@
 
 ```
 def generate_prompt():
-    prompt = '''Hello! It's Cookie's website. You will find here links for her publications on:
+    prompt = '''Hello! Welcome on this website. You will find here links for publications on:
 - OSINT and MISP training's content
 - Hardware hacking RE and workshops
 - AI and NLP
