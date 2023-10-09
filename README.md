@@ -15,30 +15,44 @@ def generate_prompt():
 
 
 
-![Robot Squirrel](pictures/robot_squirrel.png)
 
-Image generated with stabilityai/stable-diffusion library.
+
 
 
 ## Contact:
-|là|là|ou là|
-|-|-|-|
-|[Twitter](https://www.twitter.com/hello_locked)|[Linkedin](https://www.linkedin.com/in/paulinebourmeau)|[Infosec-Exchange](https://infosec.exchange/@C00kie_two)|
+|là|là|ou là| Cubessa |
+|-|-|-|-|
+|[Twitter](https://www.twitter.com/hello_locked)|[Linkedin](https://www.linkedin.com/in/paulinebourmeau)|[Infosec-Exchange](https://infosec.exchange/@C00kie_two)|[Cubessa](www.cubessa.info)|
  
 
 
 
 
 
-# Opensource
+# Workshops material :wrench:
 
 
-## Workshops :wrench:
 
-- [Hardware](https://github.com/C00kie-/workshop-materials)
+## Artificial Intelligence
+
 - [Natural Language Processing](https://github.com/C00kie-/nlp-workshops)
+
+  ![Pink robot](pictures/pink_robot.jpg)
+
+## MISP
+
+ - TBA
+   
+## Hardware
+
+- [Hardware repository](https://github.com/C00kie-/workshop-materials)
+
+
+
+# Presentations
   
 ## Hardware
+
 - Manchester BeerSide,Bsides, [On chip debugging with Openocd](ARM_microcontroller_programming) (ARM microcontroller programming), August 2018
 - Luxembourg, Hack.Lu, [Intro to hardware hacking, firmware extraction and analysis](https://cfp.hack.lu/hacklu19/talk/8YR7UM/) with opensource tools. Workshop :wrench: October 2019
 - Berlin, OffensiveCon :wrench: firmware extraction with Saumil Shah [ARM Exploit Lab](https://www.offensivecon.org/trainings/2018/the-arm-iot-exploit-laboratory-saumil-shah.html), February 2020
