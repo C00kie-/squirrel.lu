@@ -120,9 +120,6 @@ Good links:
 - Mianmö Face Mask [Github](https://github.com/Mianmo-project/mask-models)
 - Cities - Photography project.
 
-## Crime investigation and reporting
-- OCCRI Repository under construction, coming back soon! Resources collection, tools for supporting analysis.
-  
 ### Criminology:
 - DM @hello_locked mention:crimino in your first message.
 - update : just put online a list of references and journals for criminology students.
