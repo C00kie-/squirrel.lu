@@ -86,7 +86,7 @@ def generate_prompt():
 - [Install MISP modules](./install-misp-modules)
 - [SSH a MISP virtual machine](./ssh-misp-vm)
 - [Update MISP](./update-misp)
-- [Micro-training, Introduction to MISP, for analysts](./intro-to-misp-CTI) **Training outline**
+- [Micro-training, Introduction to MISP, for analysts](./intro-to-misp) **Training outline**
 - [Cheat sheet 2 (MISP)](./cheat-sheet-2)
 - [Extended-events Taxonomy](https://www.misp-project.org/taxonomies.html#_extended_event)
 - [Misinformation-website-label Taxonomy](https://www.misp-project.org/taxonomies.html#_misinformation_website_label)
