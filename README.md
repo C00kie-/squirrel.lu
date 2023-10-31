@@ -128,7 +128,7 @@ Good links:
 - January 2020, Leeds (UK), More hardware hacking, firmware extraction and analysis with opensource tools
 - June 2020, Online, Pass The SALT 2020, ning keynote with Alexandre Dulaunoy "How FOSS can help human to keep their sanity during a pandemic crisis? building better open source projects".
 - October 2023, Budapest, Hacktivity, Natural Language Processing (NLP): A Hands-On Workshop
-- 
+  
 
 ## Ping Defcon group paris team
 
