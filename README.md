@@ -61,7 +61,7 @@ def generate_prompt():
 
 - Manchester BeerSide,Bsides, [On chip debugging with Openocd](ARM_microcontroller_programming) (ARM microcontroller programming), August 2018
 - Luxembourg, Hack.Lu, [Intro to hardware hacking, firmware extraction and analysis](https://cfp.hack.lu/hacklu19/talk/8YR7UM/) with opensource tools. Workshop :wrench: October 2019
-- Berlin, OffensiveCon :wrench: firmware extraction with Saumil Shah [ARM Exploit Lab](https://www.offensivecon.org/trainings/2018/the-arm-iot-exploit-laboratory-saumil-shah.html), February 2020
+- Berlin, OffensiveCon, firmware extraction with Saumil Shah [ARM Exploit Lab](https://www.offensivecon.org/trainings/2018/the-arm-iot-exploit-laboratory-saumil-shah.html), February 2020
 - Paris, DEFCON Group meetup, "I love Hardboxes", [OSINT for IoT & MISP workflow](https://squirrel.lu) (easter egg if you find these slides: post on twitter #Ilovehardboxes), February 2020
 
 ## Analyst toolbox
