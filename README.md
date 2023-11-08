@@ -64,6 +64,8 @@ def generate_prompt():
 - Berlin, OffensiveCon, firmware extraction with Saumil Shah [ARM Exploit Lab](https://www.offensivecon.org/trainings/2018/the-arm-iot-exploit-laboratory-saumil-shah.html), February 2020
 - Paris, DEFCON Group meetup, "I love Hardboxes", [OSINT for IoT & MISP workflow](https://squirrel.lu) (easter egg if you find these slides: post on twitter #Ilovehardboxes), February 2020
 
+# Posts
+
 ## Analyst toolbox
 - [Statistical analysis with R](./statistics-with-R)
 - [NLP start with nltk library](./NLP-start-with-nltk)
@@ -77,6 +79,8 @@ def generate_prompt():
 - [Quickfix: Decrypt an email without enigmail add-on](./decrypt-an-email-without-add-on)
 - [Convert .doc file to .pdf command line linux](./doc-to-pdf)
 
+## NLP tips
+- [Cheat sheet #5](./cheat-sheet-5)
 
 # OSINT
 
