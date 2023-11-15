@@ -17,7 +17,7 @@ Hello! I am Cookie, welcome on this page. You will find here a couple of class-w
 
 🍪
 
-### I am an AI developer, linguist and cybersecurity trainer. I advocate for AI education and innovation. Find my training and our consulting at Cubessa [here](www.cubessa.com). ### 
+### I am a coder, linguist and cybersecurity trainer. I advocate for AI education and innovation. Find my training and our consulting at Cubessa [here](www.cubessa.com). ### 
 
 🥠
 
