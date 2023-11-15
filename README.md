@@ -5,7 +5,8 @@ def generate_prompt():
     prompt = '''Hello! Welcome on this page. You will find here links for publications on:
 - OSINT and MISP training's content
 - Hardware hacking RE and workshops
-- AI and NLP
+- AI and Natural language Processing
+- Deeplearning
 - Research projects
 - Criminology
 - Also a couple of Unix tips and articles about cognition, how to train people and self-learning'''
@@ -15,10 +16,11 @@ def generate_prompt():
 
 ![Squirrel-cookie](/pictures/squirrel.jpg)
 
+🍪
 
+### I am an AI developer, linguist and cybersecurity trainer. I advocate for AI education and innovation. Find my training and our consulting at Cubessa [here](www.cubessa.com). ### 
 
-
-
+🥠
 
 ## Contact:
 
@@ -35,7 +37,7 @@ def generate_prompt():
 
 
 
-# Workshops material
+# Workshops material and slides
 
 
 ## Artificial Intelligence
@@ -63,6 +65,7 @@ def generate_prompt():
 - Luxembourg, Hack.Lu, [Intro to hardware hacking, firmware extraction and analysis](https://cfp.hack.lu/hacklu19/talk/8YR7UM/) with opensource tools. Workshop :wrench: October 2019
 - Berlin, OffensiveCon, firmware extraction with Saumil Shah [ARM Exploit Lab](https://www.offensivecon.org/trainings/2018/the-arm-iot-exploit-laboratory-saumil-shah.html), February 2020
 - Paris, DEFCON Group meetup, "I love Hardboxes", [OSINT for IoT & MISP workflow](https://squirrel.lu) (easter egg if you find these slides: post on twitter #Ilovehardboxes), February 2020
+
 
 # Posts
 
@@ -149,7 +152,7 @@ Good links:
 
 ## We support Opensource 
 
-[![Cubessa](pictures/logo_color_red_no_text_black.jpg)](https://www.cubessa.info)
+[![Cubessa](pictures/logo_color_red_no_text_black.jpg)](https://www.cubessa.com)
 
 
 
