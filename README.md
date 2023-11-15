@@ -2,17 +2,18 @@
 
 ```
 def generate_prompt():
-    prompt = '''Hello! Welcome on this website. You will find here links for publications on:
+    prompt = '''Hello! Welcome on this page. You will find here links for publications on:
 - OSINT and MISP training's content
 - Hardware hacking RE and workshops
 - AI and NLP
 - Research projects
+- Criminology
 - Also a couple of Unix tips and articles about cognition, how to train people and self-learning'''
     return prompt
 ```
 
 
-
+![Squirrel-cookie](/pictures/squirrel.jpg)
 
 
 
@@ -43,7 +44,6 @@ def generate_prompt():
 
 - [Matrix Room](https://matrix.to/#/#nlp-workshop:matrix.org) ![Matrix Room](pictures/element.png)
   
-  ![Pink robot](pictures/pink_robot.jpg)
 
 ## MISP
 
