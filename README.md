@@ -11,15 +11,15 @@ Hello! I am Cookie, welcome on this page. You will find here a couple of class-w
 - Also a couple of Unix tips and articles about cognition, how to train people and self-learning
 
 ```
-
-
-![Squirrel-cookie](/pictures/squirrel.jpg)
-
 🍪
 
 ### I am a coder, linguist and cybersecurity trainer. I advocate for AI education and innovation. Find my training and our consulting at Cubessa [here](www.cubessa.com). ### 
 
 🥠
+
+![Squirrel-cookie](/pictures/squirrel.jpg)
+
+
 
 ## Contact:
 
