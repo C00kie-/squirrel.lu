@@ -17,7 +17,7 @@ Hello! I am Cookie, welcome on this page. You will find here a couple of class-w
 
 🥠
 
-
+I am currently doing a research on intelligence sharing with MISP. Detail on the research [here.](research-project-misp.md) Feel free to contact me for any questions.  
 
 
 ## Contact:
