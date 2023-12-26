@@ -17,5 +17,5 @@ Run Jupyter Lab
 
 [About Conda](https://docs.conda.io/en/latest/)
 
-**Update** : Recommanded setup with mamba as package manager: see conda miniforge documentation [here](https://github.com/conda-forge/miniforge#manbaforge) to know how to install. 
+**Update** : Recommanded setup with mamba as package manager: see conda miniforge documentation [here](https://github.com/conda-forge/miniforge#manbaforge) to see how to install. 
 
