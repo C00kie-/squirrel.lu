@@ -19,3 +19,5 @@ Run Jupyter Lab
 
 **Update** : Recommanded setup with mamba as package manager: see conda miniforge documentation [here](https://github.com/conda-forge/miniforge#manbaforge) to see how to install. 
 
+Then use **mamba** instead of **conda** 
+``` mamba install jupyter```
