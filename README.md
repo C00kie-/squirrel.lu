@@ -28,7 +28,7 @@ Threat Intelligence and Cybersecurity: I am currently researching on intelligenc
 
 [Infosec-Exchange](https://infosec.exchange/@C00kie_two)
 
-[Cubessa](https://www.cubessa.info)
+[Cubessa](https://www.cubessa.com)
  
 
 
