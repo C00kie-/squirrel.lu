@@ -94,12 +94,6 @@ Good links:
 
 
 
-  
-  
-![MISP](/pictures/misp-logo.png)
-
-
-
 # Blogposts
 
 ## Cognition: Learning about learning
