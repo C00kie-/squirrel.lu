@@ -72,6 +72,6 @@ Taxonomies
       
       service apache2 restart
       
- ### Change baseurl
+### Change baseurl
  
        /var/www/MISP/app/Console/cake Baseurl http://[url]:[port]
