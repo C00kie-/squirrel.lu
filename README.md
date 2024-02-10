@@ -72,11 +72,12 @@ I am currently doing a research on intelligence sharing with MISP. Detail on the
 - [NLP start with nltk library](./NLP-start-with-nltk)
 - [Tracelab OSINT VM quick setup](./Tracelabs-OSINT-VM-quick-setup)
   
-## Unix tips
+## Unix tips / Foss tools / misc
 - [Convert Markdown file to pdf with Pandoc](./convert-markdown-file-to-pdf)
 - [Cheat sheet #1](./cheat-sheet-1)
 - [Cheat sheet #2](./cheat-sheet-2)
 - [Cheat sheet #3 - MISP OBJECT](./cheat-sheet-3)
+- [Cheat sheet #5](./cheat-sheet-5)
 - [Quickfix: Decrypt an email without enigmail add-on](./decrypt-an-email-without-add-on)
 - [Convert .doc file to .pdf command line linux](./doc-to-pdf)
 
