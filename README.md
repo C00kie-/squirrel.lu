@@ -10,14 +10,7 @@ Hello! I am Cookie, welcome on this page. You will find here a couple of class-w
 - Also a couple of Unix tips and articles about cognition, training and self-teaching
 
 ```
-🍪
-
-I am a coder, linguist and cybersecurity trainer. I advocate for AI education and innovation.
-
-🥠
-
-Threat Intelligence and Cybersecurity: I am currently researching on intelligence sharing with MISP. Detail on the research [here.](research-project-misp.md) Feel free to contact me if you are interested in participate.
-
+Hello there!
 
 ### Socials:
 
@@ -26,6 +19,8 @@ Threat Intelligence and Cybersecurity: I am currently researching on intelligenc
 [Linkedin](https://www.linkedin.com/in/paulinebourmeau)  Or here.
 
 [Infosec-Exchange](https://infosec.exchange/@C00kie_two) 
+
+[Github](https://github.com/c00kie-)
 
 
 # Workshops material and slides
