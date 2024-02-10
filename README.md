@@ -1,4 +1,4 @@
-
+![Squirrel-cookie](/pictures/squirrel-cookie.png)
 
 ```
 Hello! I am Cookie, welcome on this page. You will find here a couple of class-workshop material and publications on:
@@ -164,5 +164,5 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 
-![Squirrel-cookie](/pictures/squirrel.jpg)
+
 
