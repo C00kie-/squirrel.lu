@@ -40,18 +40,15 @@ Threat Intelligence and Cybersecurity: I am currently researching on intelligenc
 
 ## Artificial Intelligence
 
-- [Natural Language Processing](https://github.com/C00kie-/nlp-workshops)
+- [Natural Language Processing: NLP workshop materials - 2024](https://github.com/C00kie-/nlp-workshops)
+   
+## Hardware and Firmware analysis
 
-- [Matrix Room](https://matrix.to/#/#nlp-workshop:matrix.org) ![Matrix Room](pictures/element.png)
+- [IoT-workshop materials](https://github.com/C00kie-/IoT-workshop-materials)
   
 
-## MISP
 
- - TBA
-   
-## Hardware
 
-- [Hardware repository](https://github.com/C00kie-/workshop-materials)
 
 
 
@@ -77,7 +74,7 @@ Threat Intelligence and Cybersecurity: I am currently researching on intelligenc
 - [Cheat sheet #1](./cheat-sheet-1)
 - [Cheat sheet #2](./cheat-sheet-2)
 - [Cheat sheet #3 - MISP OBJECT](./cheat-sheet-3)
-- [Cheat sheet #5](./cheat-sheet-5)
+- [Cheat sheet #4](./cheat-sheet-4)
 - [Quickfix: Decrypt an email without enigmail add-on](./decrypt-an-email-without-add-on)
 - [Convert .doc file to .pdf command line linux](./doc-to-pdf)
 
