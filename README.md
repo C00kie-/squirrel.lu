@@ -13,14 +13,14 @@ Hello! I am Cookie, welcome on this page. You will find here a couple of class-w
 ```
 🍪
 
-### I am a coder, linguist and cybersecurity trainer. I advocate for AI education and innovation. Find my training and our consulting at Cubessa [here](www.cubessa.com). ### 
+I am a coder, linguist and cybersecurity trainer. I advocate for AI education and innovation.
 
 🥠
 
-I am currently doing a research on intelligence sharing with MISP. Detail on the research [here.](research-project-misp.md) Feel free to contact me for any questions.  
+Threat Intelligence and Cybersecurity: I am currently researching on intelligence sharing with MISP. Detail on the research [here.](research-project-misp.md) Feel free to contact me for any questions.  
 
 
-## Contact:
+## More:
 
 [Twitter](https://www.twitter.com/hello_locked)
 
