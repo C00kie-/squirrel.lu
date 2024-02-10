@@ -17,22 +17,16 @@ I am a coder, linguist and cybersecurity trainer. I advocate for AI education an
 
 🥠
 
-Threat Intelligence and Cybersecurity: I am currently researching on intelligence sharing with MISP. Detail on the research [here.](research-project-misp.md) Feel free to contact me for any questions.  
+Threat Intelligence and Cybersecurity: I am currently researching on intelligence sharing with MISP. Detail on the research [here.](research-project-misp.md) Feel free to contact me if you are interested in participate.
 
 
-## More:
+### Socials:
 
-[Twitter](https://www.twitter.com/hello_locked)
+[Twitter](https://www.twitter.com/hello_locked) Ping me here.
 
-[Linkedin](https://www.linkedin.com/in/paulinebourmeau)
+[Linkedin](https://www.linkedin.com/in/paulinebourmeau)  Or here.
 
-[Infosec-Exchange](https://infosec.exchange/@C00kie_two)
-
-[Cubessa](https://www.cubessa.com)
- 
-
-
-
+[Infosec-Exchange](https://infosec.exchange/@C00kie_two) 
 
 
 # Workshops material and slides
