@@ -21,3 +21,20 @@ Run Jupyter Lab
 
 Then use **mamba** instead of **conda** 
 ``` mamba install jupyter```
+
+
+
+# Install Excalidraw locally 
+
+[Installation | Excalidraw developer docs](https://docs.excalidraw.com/docs/@excalidraw/excalidraw/installation)
+
+```
+git clone https://github.com/excalidraw/excalidraw.git
+cd excalidraw
+npm install
+npm start
+```
+
+Go to: http://localhost:3000 
+
+
