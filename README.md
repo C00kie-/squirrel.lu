@@ -3,8 +3,8 @@
 ```
 Hello! I am Cookie, welcome on this page. You will find here a couple of class-workshop material and publications on:
 - OSINT and MISP training's content
-- Hardware hacking RE and workshops
-- AI and Natural language Processing
+- Hardware hacking and firmware reverse engineering
+- AI and Natural Language Processing
 - Deeplearning
 - Research projects
 - Criminology
