@@ -62,7 +62,7 @@ Hello there!
 - [Cheat sheet #1](./cheat-sheet-1)
 - [Cheat sheet #2](./cheat-sheet-2)
 - [Cheat sheet #3 - MISP OBJECT](./cheat-sheet-3)
-- [Cheat sheet #4](./cheat-sheet-4)
+- [Cheat sheet #4](./cheat-cheet-4)
 - [Cheat sheet #6](./cheat-sheet-6)
 - [Quickfix: Decrypt an email without enigmail add-on](./decrypt-an-email-without-add-on)
 - [Convert .doc file to .pdf command line linux](./doc-to-pdf)
