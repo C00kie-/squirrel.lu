@@ -114,8 +114,11 @@ Good links:
 - January 2020, Leeds (UK), More hardware hacking, firmware extraction and analysis with opensource tools
 - June 2020, Online, Pass The SALT 2020, ning keynote with Alexandre Dulaunoy "How FOSS can help human to keep their sanity during a pandemic crisis? building better open source projects".
 - October 2023, Budapest, Hacktivity, Natural Language Processing (NLP): A Hands-On Workshop
-- ~~October 2023, Quebec, Hackfest, Natural Language Processing (NLP): A Hands-On Workshop~~
-- ~~November 2023, Brest, Unlock your Brain, Natural language Processing: Hands-On Worhsop~~
+- October 2023, Quebec, Hackfest, Natural Language Processing (NLP): A Hands-On Workshop
+- November 2023, Brest, Unlock your Brain, Natural language Processing: Hands-On Worhsop
+- March 2024 CyberFlorida, Florida US, NLP for CTI Workshop
+- Apil 2024 HackSpaceCon 2024, Florida US, Natural Language Processing with Deeplearning Workshop 
+- June 2024 FIRST 2024, Fukuoka, Japan - NeuroCTI a custom fined-tuned LLM for CTI
   
 
 ## Ping Defcon group paris team
