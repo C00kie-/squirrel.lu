@@ -51,10 +51,8 @@ Hello there!
 
 # Publi
 
-### 2024 
-
 ## AI and cybersecurity
-- [L’influence négligée des biais cognitifs dans la cybersécurité, une menace silencieuse. ](https://paulinebourmeau.wordpress.com/2024/02/21/linfluence-negligee-des-biais-cognitifs-dans-la-cybersecurite-une-menace-silencieuse/)
+- **Research** [L’influence négligée des biais cognitifs dans la cybersécurité, une menace silencieuse. ](https://paulinebourmeau.wordpress.com/2024/02/21/linfluence-negligee-des-biais-cognitifs-dans-la-cybersecurite-une-menace-silencieuse/)
 - [Gen-AI production: When do step back and reflect](https://paulinebourmeau.wordpress.com/2024/02/10/when-do-step-back-and-reflect/)
 - [The Overlooked yet Critical Role of Bias in Cybersecurity](https://paulinebourmeau.wordpress.com/2024/02/10/the-overlooked-yet-critical-role-of-bias-in-cybersecurity/)
 - [Publication is an imperfect process as well as research](https://paulinebourmeau.wordpress.com/2024/02/10/publication-is-an-imperfect-process-as-is-research-in-ai/)
