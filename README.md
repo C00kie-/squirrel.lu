@@ -12,7 +12,7 @@ Hello! I am Cookie, welcome on this page. You will find here a couple of class-w
 - Also a couple of Unix tips and articles about cognition, training and self-teaching
 
 ```
-Hello there!
+Hello there! 🐿️
 
 ### Socials:
 
