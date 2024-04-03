@@ -51,6 +51,15 @@ Hello there!
 
 # Posts
 
+## AI and cybersecurity
+- [L’influence négligée des biais cognitifs dans la cybersécurité, une menace silencieuse. ](https://paulinebourmeau.wordpress.com/2024/02/21/linfluence-negligee-des-biais-cognitifs-dans-la-cybersecurite-une-menace-silencieuse/)
+- [Gen-AI production: When do step back and reflect](https://paulinebourmeau.wordpress.com/2024/02/10/when-do-step-back-and-reflect/)
+- [The Overlooked yet Critical Role of Bias in Cybersecurity](https://paulinebourmeau.wordpress.com/2024/02/10/the-overlooked-yet-critical-role-of-bias-in-cybersecurity/)
+- [Publication is an imperfect process as well as research](https://paulinebourmeau.wordpress.com/2024/02/10/publication-is-an-imperfect-process-as-is-research-in-ai/)
+- [https://paulinebourmeau.wordpress.com/2024/02/10/you-can-truly-learn-anything/](https://paulinebourmeau.wordpress.com/2024/02/10/you-can-truly-learn-anything/)
+- [Gen-AI LLM: Write with your own words](https://paulinebourmeau.wordpress.com/2024/02/10/write-with-your-own-words/)
+- [Addressing Burnout in Responsible AI: The Need for a Humanities-Infused Approach.](https://paulinebourmeau.wordpress.com/2024/02/10/addressing-burnout-in-responsible-ai-the-need-for-a-humanities-infused-approach/)
+  
 ## Analyst toolbox
 - [Statistical analysis with R](./statistics-with-R)
 - [NLP start with nltk library](./NLP-start-with-nltk)
@@ -114,6 +123,7 @@ Good links:
 - June 2020, Online, Pass The SALT 2020, ning keynote with Alexandre Dulaunoy "How FOSS can help human to keep their sanity during a pandemic crisis? building better open source projects".
 - October 2023, Budapest, Hacktivity, Natural Language Processing (NLP): A Hands-On Workshop
 - October 2023, Quebec, Hackfest, Natural Language Processing (NLP): A Hands-On Workshop
+- October 2023, HackLu, You can learn anything! [video](https://youtu.be/MBas9w752M8)
 - November 2023, Brest, Unlock your Brain, Natural language Processing: Hands-On Worhsop
 - March 2024 CyberFlorida, Florida US, NLP for CTI Workshop
 - Apil 2024 HackSpaceCon 2024, Florida US, Natural Language Processing with Deeplearning Workshop 
