@@ -1,3 +1,5 @@
+![photo](./photo.jpg)
+
 
 ```
 Hello! I am Cookie, welcome on this page. You will find here a couple of class-workshop material and publications on:
