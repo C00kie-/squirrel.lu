@@ -38,7 +38,7 @@ Hello there! 🐿️
   
 
 ## Blog on artificial intelligence, bias, code and CTI (Eng, Fr)
-- [Blog](paulinebourmeau.wordpress.com)
+- [Blog](https://www.paulinebourmeau.wordpress.com)
 
 
 # Presentations
