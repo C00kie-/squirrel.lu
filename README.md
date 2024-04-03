@@ -56,7 +56,7 @@ Hello there!
 - [Gen-AI production: When do step back and reflect](https://paulinebourmeau.wordpress.com/2024/02/10/when-do-step-back-and-reflect/)
 - [The Overlooked yet Critical Role of Bias in Cybersecurity](https://paulinebourmeau.wordpress.com/2024/02/10/the-overlooked-yet-critical-role-of-bias-in-cybersecurity/)
 - [Publication is an imperfect process as well as research](https://paulinebourmeau.wordpress.com/2024/02/10/publication-is-an-imperfect-process-as-is-research-in-ai/)
-- [https://paulinebourmeau.wordpress.com/2024/02/10/you-can-truly-learn-anything/](https://paulinebourmeau.wordpress.com/2024/02/10/you-can-truly-learn-anything/)
+- [You can learn anything](https://paulinebourmeau.wordpress.com/2024/02/10/you-can-truly-learn-anything/)
 - [Gen-AI LLM: Write with your own words](https://paulinebourmeau.wordpress.com/2024/02/10/write-with-your-own-words/)
 - [Addressing Burnout in Responsible AI: The Need for a Humanities-Infused Approach.](https://paulinebourmeau.wordpress.com/2024/02/10/addressing-burnout-in-responsible-ai-the-need-for-a-humanities-infused-approach/)
   
