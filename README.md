@@ -49,7 +49,7 @@ Hello there!
 - Paris, DEFCON Group meetup, "I love Hardboxes", [OSINT for IoT & MISP workflow](https://squirrel.lu) (easter egg if you find these slides: post on twitter #Ilovehardboxes), February 2020
 
 
-# Posts
+# Publi
 
 ## AI and cybersecurity
 - [L’influence négligée des biais cognitifs dans la cybersécurité, une menace silencieuse. ](https://paulinebourmeau.wordpress.com/2024/02/21/linfluence-negligee-des-biais-cognitifs-dans-la-cybersecurite-une-menace-silencieuse/)
