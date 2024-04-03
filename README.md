@@ -35,7 +35,7 @@ Hello there!
 - [IoT-workshop materials](https://github.com/C00kie-/IoT-workshop-materials)
   
 
-## BLog on artificial intelligence, bias, code and CTI
+## Blog on artificial intelligence, bias, code and CTI (Eng, Fr)
 - [Blog](paulinebourmeau.wordpress.com)
 
 
