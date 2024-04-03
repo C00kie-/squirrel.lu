@@ -58,7 +58,7 @@ Hello there!
 - [Publication is an imperfect process as well as research](https://paulinebourmeau.wordpress.com/2024/02/10/publication-is-an-imperfect-process-as-is-research-in-ai/)
 - [You can learn anything](https://paulinebourmeau.wordpress.com/2024/02/10/you-can-truly-learn-anything/)
 - [Gen-AI LLM: Write with your own words](https://paulinebourmeau.wordpress.com/2024/02/10/write-with-your-own-words/)
-- [Addressing Burnout in Responsible AI: The Need for a Humanities-Infused Approach.](https://paulinebourmeau.wordpress.com/2024/02/10/addressing-burnout-in-responsible-ai-the-need-for-a-humanities-infused-approach/)
+- **Society** [Addressing Burnout in Responsible AI: The Need for a Humanities-Infused Approach.](https://paulinebourmeau.wordpress.com/2024/02/10/addressing-burnout-in-responsible-ai-the-need-for-a-humanities-infused-approach/)
   
 ## Analyst toolbox
 - [Statistical analysis with R](./statistics-with-R)
