@@ -121,20 +121,13 @@ Good links:
 
 ![dc11331](/pictures/df.png)
 
-:) :) :D 
+
 [Ping](https://www.dc11331.com)
-
-
-## 42 Born2Code mentoring:
-- DM @hello_locked
-
 
 
 
 ### LICENSE 
-This work is licensed under Copyright Law, exception made on opensource code. 
-
-See Creative Commons Attribution Share-Alike International Licence. [License](./LICENSE)
+Creative Commons Attribution Share-Alike International Licence. [License](./LICENSE)
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
