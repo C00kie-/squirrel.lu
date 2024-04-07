@@ -35,7 +35,17 @@ Hello there! 🐿️
 - [IoT-workshop materials](https://github.com/C00kie-/IoT-workshop-materials)
   
 
-
+## Mini-MISP
+- [Create a MISP Object](./cheat-sheet-2)
+- [MISP Minimal config](./MISP-minimal-config)
+- [How to Make a MISP Import Script](https://www.misp-project.org/2020/09/30/How-To-Make-A-MISP-Import-Script.html)
+- [Install MISP modules](./install-misp-modules)
+- [SSH a MISP virtual machine](./ssh-misp-vm)
+- [Update MISP](./update-misp)
+- [Micro-training, Introduction to MISP, for analysts](./intro-to-misp) **Training outline**
+- [Extended-events Taxonomy](https://www.misp-project.org/taxonomies.html#_extended_event)
+- [Misinformation-website-label Taxonomy](https://www.misp-project.org/taxonomies.html#_misinformation_website_label)
+- [Create an import script](https://www.misp-project.org/authors/Pauline-Bourmeau/)
 
 ## Presentations
   
@@ -73,17 +83,6 @@ Hello there! 🐿️
 ### NLP tips
 - [Quick Conda Setup](./cheat-sheet-5)
 
-### MISP
-- [Create a MISP Object](./cheat-sheet-2)
-- [MISP Minimal config](./MISP-minimal-config)
-- [How to Make a MISP Import Script](https://www.misp-project.org/2020/09/30/How-To-Make-A-MISP-Import-Script.html)
-- [Install MISP modules](./install-misp-modules)
-- [SSH a MISP virtual machine](./ssh-misp-vm)
-- [Update MISP](./update-misp)
-- [Micro-training, Introduction to MISP, for analysts](./intro-to-misp) **Training outline**
-- [Extended-events Taxonomy](https://www.misp-project.org/taxonomies.html#_extended_event)
-- [Misinformation-website-label Taxonomy](https://www.misp-project.org/taxonomies.html#_misinformation_website_label)
-- [Create an import script](https://www.misp-project.org/authors/Pauline-Bourmeau/)
 
 Good links:
 [Creating a MISP object - Koen Van Impe](https://www.misp-project.org/2021/03/17/MISP-Objects-101.html/)
