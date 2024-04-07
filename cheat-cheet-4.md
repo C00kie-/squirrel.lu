@@ -5,7 +5,7 @@
 
 Quick code snippets and links
   
- ## Install Matrix Element
+ ### Install Matrix Element
  
 ```
 sudo apt install -y wget apt-transport-https
