@@ -2,7 +2,12 @@
 
 ## Create a MISP object
 
-### MISP object location: /var/www/MISP/app/files/misp-objects/objects
+### MISP object location: 
+
+```
+/var/www/MISP/app/files/misp-objects/objects
+```
+
 File to change: definition.json 
 
 ### Header:
@@ -21,17 +26,22 @@ File to change: definition.json
 - multiple
 - values_list
 
-### Merge
 
 ### Update MISP
 Global actions > List Object Templates > Update Objects
 
-### Relations
+### Relationships
+
+```
 /var/www/MISP/app/files/misp-objects/relationships/definition.json
+```
 
 ### Validation
+
+```
 ./jq_all_the_things.sh
 ./validate_all.sh
+```
 
 source: 
 https://www.misp-project.org/2021/03/17/MISP-Objects-101.html/
