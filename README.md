@@ -64,8 +64,7 @@ Hello there! 🐿️
   
 ### Unix tips / Foss tools / misc
 - [Convert Markdown file to pdf with Pandoc](./convert-markdown-file-to-pdf)
-- [Cheat sheet #1](./cheat-sheet-1)
-- [Cheat sheet #3](./cheat-sheet-3)
+- [Git Magic, Update MISP](./cheat-sheet-1)
 - [Install Element Matrix client](./cheat-cheet-4)
 - [Run Excalidraw locally](./cheat-sheet-6)
 - [Quickfix: Decrypt an email without enigmail add-on](./decrypt-an-email-without-add-on)
