@@ -65,10 +65,9 @@ Hello there! 🐿️
 ### Unix tips / Foss tools / misc
 - [Convert Markdown file to pdf with Pandoc](./convert-markdown-file-to-pdf)
 - [Cheat sheet #1](./cheat-sheet-1)
-- [Cheat sheet #2](./cheat-sheet-2)
 - [Cheat sheet #3](./cheat-sheet-3)
-- [Cheat sheet #4](./cheat-cheet-4)
-- [Cheat sheet #6](./cheat-sheet-6)
+- [Install Element Matrix client](./cheat-cheet-4)
+- [Run Excalidraw locally](./cheat-sheet-6)
 - [Quickfix: Decrypt an email without enigmail add-on](./decrypt-an-email-without-add-on)
 - [Convert .doc file to .pdf command line linux](./doc-to-pdf)
 
@@ -76,6 +75,7 @@ Hello there! 🐿️
 - [Cheat sheet #5](./cheat-sheet-5)
 
 ### MISP
+- [Create a MISP Object](./cheat-sheet-2)
 - [MISP Minimal config](./MISP-minimal-config)
 - [How to Make a MISP Import Script](https://www.misp-project.org/2020/09/30/How-To-Make-A-MISP-Import-Script.html)
 - [Install MISP modules](./install-misp-modules)
