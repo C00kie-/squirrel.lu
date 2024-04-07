@@ -6,7 +6,9 @@
 Quick code snippets and links
   
  ## Install Matrix Element
-```sudo apt install -y wget apt-transport-https
+ 
+```
+sudo apt install -y wget apt-transport-https
 ‍
 sudo wget -O /usr/share/keyrings/element-io-archive-keyring.gpg https://packages.element.io/debian/element-io-archive-keyring.gpg
 ‍
@@ -17,4 +19,5 @@ sudo apt update
 sudo apt install element-desktop
 ```
 
-official (element website)[https://element.io/download#linux]
+
+official [element website](https://element.io/download#linux)
