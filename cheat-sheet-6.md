@@ -1,8 +1,8 @@
 # Cheat-sheet #6
 
-## Install Excalidraw locally 
+### Install Excalidraw locally 
 
-[Installation | Excalidraw developer docs](https://docs.excalidraw.com/docs/@excalidraw/excalidraw/installation)
+[Installation Excalidraw developer docs](https://docs.excalidraw.com/docs/@excalidraw/excalidraw/installation)
 
 ```
 git clone https://github.com/excalidraw/excalidraw.git
@@ -11,6 +11,9 @@ npm install
 npm start
 ```
 
-Go to: http://localhost:3000 
+Go to: 
+```
+http://localhost:3000
+```
 
 
