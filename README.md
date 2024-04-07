@@ -1,4 +1,4 @@
-![photo](./photo.jpg)
+
 
 
 ```
@@ -21,8 +21,6 @@ Hello there! 🐿️
 [Linkedin](https://www.linkedin.com/in/paulinebourmeau)  Or here.
 
 [Infosec-Exchange](https://infosec.exchange/@C00kie_two) 
-
-[Github](https://github.com/c00kie-)
 
 
 # Workshops material and slides
