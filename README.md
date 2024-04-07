@@ -3,7 +3,7 @@
 
 ```
 Hello! I am Cookie, welcome on this page. You will find here a couple of class-workshop material and publications on:
-- OSINT and MISP training's content
+- OSINT and MISP
 - Hardware hacking and firmware reverse engineering
 - AI and Natural Language Processing
 - Deeplearning
@@ -35,8 +35,6 @@ Hello there! 🐿️
 - [IoT-workshop materials](https://github.com/C00kie-/IoT-workshop-materials)
   
 
-## Blog on artificial intelligence, bias, code and CTI (Eng, Fr)
-- [Blog](https://www.paulinebourmeau.wordpress.com)
 
 
 # Presentations
