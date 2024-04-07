@@ -71,7 +71,7 @@ Hello there! 🐿️
 - [Convert .doc file to .pdf command line linux](./doc-to-pdf)
 
 ### NLP tips
-- [Cheat sheet #5](./cheat-sheet-5)
+- [Quick Conda Setup](./cheat-sheet-5)
 
 ### MISP
 - [Create a MISP Object](./cheat-sheet-2)
