@@ -101,7 +101,7 @@ Good links:
 - DM @hello_locked mention:crimino in your first message.
 - update : just put online a list of references and journals for criminology students.
 
-## Conferences
+## Conferences workshops
 
 - Manchester BeerSide,Bsides, [On chip debugging with Openocd](ARM_microcontroller_programming) (ARM microcontroller programming), August 2018
 - Luxembourg, Hack.Lu, [Intro to hardware hacking, firmware extraction and analysis](https://cfp.hack.lu/hacklu19/talk/8YR7UM/) with opensource tools. Workshop :wrench: October 2019
