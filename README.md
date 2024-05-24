@@ -119,7 +119,9 @@ Good links:
 - October 2023, HackLu, You can learn anything! [video](https://youtu.be/MBas9w752M8)
 - November 2023, Brest, Unlock your Brain, Natural language Processing: Hands-On Worhsop
 - March 2024 CyberFlorida, Florida US, NLP for CTI Workshop
-- Apil 2024 HackSpaceCon 2024, Florida US, Natural Language Processing with Deeplearning Workshop 
+- April 2024 HackSpaceCon 2024, Florida US, Natural Language Processing with Deeplearning Workshop
+- May 2024 CONFidence, Poland, Natural Language Processing with Deeplearning Workshop
+- June 2024 PassTheSalt, France, Natural Language Processing with Deeplearning Workshop
 - June 2024 FIRST 2024, Fukuoka, Japan - NeuroCTI a custom fined-tuned LLM for CTI
   
 
