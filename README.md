@@ -47,15 +47,6 @@ Hello there! 🐿️
 - [Misinformation-website-label Taxonomy](https://www.misp-project.org/taxonomies.html#_misinformation_website_label)
 - [Create an import script](https://www.misp-project.org/authors/Pauline-Bourmeau/)
 
-## Presentations
-  
-### Hardware
-
-- Manchester BeerSide,Bsides, [On chip debugging with Openocd](ARM_microcontroller_programming) (ARM microcontroller programming), August 2018
-- Luxembourg, Hack.Lu, [Intro to hardware hacking, firmware extraction and analysis](https://cfp.hack.lu/hacklu19/talk/8YR7UM/) with opensource tools. Workshop :wrench: October 2019
-- Berlin, OffensiveCon, firmware extraction with Saumil Shah [ARM Exploit Lab](https://www.offensivecon.org/trainings/2018/the-arm-iot-exploit-laboratory-saumil-shah.html), February 2020
-- Paris, DEFCON Group meetup, "I love Hardboxes", [OSINT for IoT & MISP workflow](https://squirrel.lu) (easter egg if you find these slides: post on twitter #Ilovehardboxes), February 2020
-
 
 ## Publi
 
@@ -111,6 +102,11 @@ Good links:
 - update : just put online a list of references and journals for criminology students.
 
 ## Conferences
+
+- Manchester BeerSide,Bsides, [On chip debugging with Openocd](ARM_microcontroller_programming) (ARM microcontroller programming), August 2018
+- Luxembourg, Hack.Lu, [Intro to hardware hacking, firmware extraction and analysis](https://cfp.hack.lu/hacklu19/talk/8YR7UM/) with opensource tools. Workshop :wrench: October 2019
+- Berlin, OffensiveCon, firmware extraction with Saumil Shah [ARM Exploit Lab](https://www.offensivecon.org/trainings/2018/the-arm-iot-exploit-laboratory-saumil-shah.html), February 2020
+- Paris, DEFCON Group meetup, "I love Hardboxes", [OSINT for IoT & MISP workflow](https://squirrel.lu) (easter egg if you find these slides: post on twitter #Ilovehardboxes), February 2020
 - November 2019, Vienna, Deepsec, [Please, bias Me!](https://blog.deepsec.net/roots-2019-invited-talk-please-bias-me-pauline-bourmeau/)
 - January 2020, Leeds (UK), More hardware hacking, firmware extraction and analysis with opensource tools
 - June 2020, Online, Pass The SALT 2020, ning keynote with Alexandre Dulaunoy "How FOSS can help human to keep their sanity during a pandemic crisis? building better open source projects".
