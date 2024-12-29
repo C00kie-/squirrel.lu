@@ -42,7 +42,6 @@ Hello there! 🐿️
 - [Install MISP modules](./install-misp-modules)
 - [SSH a MISP virtual machine](./ssh-misp-vm)
 - [Update MISP](./update-misp)
-- [Micro-training, Introduction to MISP, for analysts](./intro-to-misp) **Training outline**
 - [Extended-events Taxonomy](https://www.misp-project.org/taxonomies.html#_extended_event)
 - [Misinformation-website-label Taxonomy](https://www.misp-project.org/taxonomies.html#_misinformation_website_label)
 - [Create an import script](https://www.misp-project.org/authors/Pauline-Bourmeau/)
