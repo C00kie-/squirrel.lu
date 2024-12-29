@@ -84,7 +84,7 @@ Good links:
 [Creating a MISP object - Koen Van Impe](https://www.misp-project.org/2021/03/17/MISP-Objects-101.html/)
 
 
-### Cognition: Learning about learning
+### Learning about learning
 - [Learn by solving problems](./learn-the-techniques)
 - [Keep notes for creativity Joplin!](./keeping-notes-for-creativity)
 
