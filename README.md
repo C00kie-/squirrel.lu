@@ -118,6 +118,11 @@ Good links:
 - May 2024 CONFidence, Poland, Natural Language Processing with Deeplearning Workshop
 - June 2024 PassTheSalt, France, Natural Language Processing with Deeplearning Workshop
 - June 2024 FIRST 2024, Fukuoka, Japan - NeuroCTI a custom fined-tuned LLM for CTI
+- September 2024 BalCCon2k24, Serbia, NLP Labs introduction & intermediate levels
+- October 2024 NoHat, Italy NLP Lab: Applied Text-Mining to Cybersecurity
+- October 2024 Hacklu, Luxembourg, NLP deep-dive: Transformers for Text Mining and Text Generation in Cybersecurity
+- November 2024: UnlockYourBrain, Brest: NLP for Threat Intelligence
+- Novembre 2024: Deepsec, Vienna: Human Factors in Information Sharing: Why We Share and Why We Don’t.
   
 
 ## Ping Defcon group paris team
