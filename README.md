@@ -58,6 +58,9 @@ Hello there! 🐿️
 - [Gen-AI LLM: Write with your own words](https://vestadotai.com/2024/05/18/write-with-your-own-words/)
 - [Addressing Burnout in Responsible AI: The Need for a Humanities-Infused Approach.](https://paulinebourmeau.wordpress.com/2024/02/10/addressing-burnout-in-responsible-ai-the-need-for-a-humanities-infused-approach/)
 - [Ever heard of neurodiversity?](https://vestadotai.com/2024/04/08/ever-heard-of-neurodiversity/)
+- [Threat Intelligence/MISP Project. Part 1: What is the MISP Platform?](https://vestadotai.com/2025/01/01/threat-intelligence-misp-project-part-1-what-is-the-misp-platform/)
+- [The Human Factor in Cybersecurity: Addressing the Weakest Link](https://vestadotai.com/2024/12/22/the-human-factor-in-cybersecurity-addressing-the-weakest-link/)
+- [Decoding spam detection with language models](https://vestadotai.com/2024/12/22/decoding-spam-detection-with-language-models/)
   
 ### Tutorials and courses
 - [Introduction to Natural Language Processing Part 1](https://vestadotai.com/2024/05/14/intro-to-natural-language-processing-first-part/)
