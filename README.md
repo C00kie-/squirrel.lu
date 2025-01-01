@@ -16,8 +16,6 @@ Hello there! 🐿️
 
 ### Socials:
 
-[Twitter](https://www.twitter.com/hello_locked) Ping me here.
-
 [Linkedin](https://www.linkedin.com/in/paulinebourmeau)  Or here.
 
 [Infosec-Exchange](https://infosec.exchange/@C00kie_two) 
